@@ -33,7 +33,7 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 ## Authors 
 
-**Circuitscape was written by Brad McRae, Viral Shah, and Tanmay Mohapatra.**  More details about the authors **here**.
+**Circuitscape was written by Brad McRae, Viral Shah, Tanmay Mohapatra, and Ranjan Anantharaman**  More details about the authors [**here**](/about-the-authors.md).
 
 ## Acknowlegments
 
