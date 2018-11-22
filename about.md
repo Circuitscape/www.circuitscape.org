@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
+title: About Circuitscape
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Circuitscape is an award-winning connectivity analysis software package which borrows algorithms from electronic circuit theory to predict patterns of movement, gene flow, and genetic differentiation among plant and animal populations in heterogeneous landscapes. Circuit theory complements least-cost path approaches because it considers effects of all possible pathways across a landscape simultaneously.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img style="float: right; height: 267px; width: 400px" src="/img/image16.png">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The links below give more background on Circuitscape and how it is used: 
+
+- [Applications](https://www.circuitscape.org/applications)
+- [Circuitscape user guide](https://circuitscape.org/circuitscape_4_0_user_guide.html)
+- [FAQ](http://www.circuitscape.org/FAQ)
+- [Publications](http://www.circuitscape.org/pubs)
+- [Press](http://www.circuitscape.org/press)
+- [About the authors](http://www.circuitscape.org/about-the-authors)
+
+More info about how Circuitscape is used and our plans for future development can be found in [**this white paper**](http://www.circuitscape.org/downloads/files/McRae%20et%20al.%202016.%20Circuitscape%20Connectivity%20Modeling%20for%20Conservation%20and%20Human%20Health.pdf?attredirects=0&d=1).
 
 
-[jekyll-organization]: https://github.com/jekyll
+**Whatever tool you use,** connectivity modeling involves a great deal of research, data compilation, GIS analyses, and careful interpretation of results. Defining areas to connect, parameterizing resistance models, and other modeling decisions you will need to make are not trivial. Before diving in, we strongly recommend that users first acquaint themselves with the process and challenges of connectivity modeling by consulting published resources. Good places to start include overviews on the [Corridor Design](http://www.corridordesign.org/) and [Connecting Landscapes](http://connectinglandscapes.org/) websites.
+
+
+
