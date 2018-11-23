@@ -34,11 +34,9 @@ plugins:
 header_pages: 
   - index.md
   - docs.md
-  - about.md 
   - downloads.md 
-  - linkage-mapper.md
-  - links.md 
-  - more-tools.md
+  - about.md 
+  - linkage-mapper
   - pubs.md
   - about-the-authors.md
 
