@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Authors
+title: Authors
 ---
 
 <img src="/img/SB_surf.jpg" style="float:right; padding:5px;">

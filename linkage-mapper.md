@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Linkage Mapper
+permalink: /linkage-mapper/
 ---
 <img style="float: left; height: 267px; padding: 5px; border: 1px solid #ddd; border-radius: 4px;" src="/img/lm_logo.jpg" hspace="10">
 
@@ -30,4 +31,10 @@ Linkage Mapper is an open access project in active development by a [**dynamic t
 
 Linkage Mapper User Group for support and updates on new releases. You can contribute and comment on development by joining our [**Github Site and Group**](https://github.com/linkagescape/linkage-mapper), and you can post your final maps, or work in progress, at our shared [**Data Basin Gallery**](https://databasin.org/galleries/027492e42545494cae53ca1f61b46c17).
 
-Please see the **Linkage Mapper Tools** **page for further details and maps** of each output.
+Please see the [**Linkage Mapper Tools** ](/linkage-mapper-tools/) page for further details and maps of each output.
+
+## More information
+
+* [Linkage Mapper Tools](/linkage-mapper-tools/)
+
+* [About the Linkage Mapper Team](/about-the-linkage-mapper-team/)

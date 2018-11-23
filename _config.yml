@@ -33,12 +33,12 @@ plugins:
 # Header pages
 header_pages: 
   - index.md
-  - about.md 
+  - docs.md
   - downloads.md 
+  - about.md 
   - linkage-mapper.md
-  - links.md 
-  - more-tools.md
   - pubs.md
+  - authors.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
