@@ -36,9 +36,9 @@ header_pages:
   - docs.md
   - downloads.md 
   - about.md 
-  - linkage-mapper
+  - linkage-mapper.md
   - pubs.md
-  - about-the-authors.md
+  - authors.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
