@@ -21,7 +21,7 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 ## More News
 
-**"One glorious map"** using Circuitscape to model species responses to climate change almost breaks the internet. More [here](http://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/) and [here](http://www.smithsonianmag.com/smart-news/mesmerizing-animation-shows-where-animals-going-survive-climate-change-180960253/).
+[**"One glorious map"**](http://www.climatecentral.org/news/map-animal-migration-climate-change-20646) using Circuitscape to model species responses to climate change almost breaks the internet. More [here](http://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/) and [here](http://www.smithsonianmag.com/smart-news/mesmerizing-animation-shows-where-animals-going-survive-climate-change-180960253/).
 
 * [Circuitscape wins Wildlife Society award](http://www.circuitscape.org/circuitscape-wins-wildlife-society-award)
 
@@ -33,7 +33,7 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 ## Authors 
 
-**Circuitscape was written by Brad McRae, Viral Shah, Tanmay Mohapatra, and Ranjan Anantharaman**  More details about the authors [**here**](/about-the-authors.md).
+**Circuitscape was written by Brad McRae, Viral Shah, Tanmay Mohapatra, and Ranjan Anantharaman.**  More details about the authors [**here**](/about-the-authors.md).
 
 ## Acknowlegments
 
