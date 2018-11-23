@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Documentation
 permalink: /docs/
 ---
 # CIRCUITSCAPE User Guide
