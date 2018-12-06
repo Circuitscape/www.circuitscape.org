@@ -3,7 +3,7 @@ layout: page
 title: Linkage Mapper
 permalink: /linkage-mapper/
 ---
-<img style="float: left; height: 267px; padding: 5px; border: 1px solid #ddd; border-radius: 4px;" src="/img/lm_logo.jpg" hspace="10">
+<img style="float: left; height: 267px; padding: 5px; border: 1px solid #ddd; border-radius: 4px;" src="img/lm_logo.jpg" hspace="10">
 
 Linkage Mapper supports regional wildlife habitat connectivity analyses. It consists of six tools that automate mapping and prioritization of wildlife habitat corridors. It is comprised of open source Python scripts, shared in an ArcGIS toolbox.
 

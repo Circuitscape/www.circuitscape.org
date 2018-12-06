@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-permalink: /docs/
+permalink: docs/
 ---
 # CIRCUITSCAPE User Guide
 
