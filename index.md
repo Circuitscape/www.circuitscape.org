@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Welcome to the Circuitscape Project
 ---
 
 <img style="float: right; height: 267px; width: 400px pad: 2px" src="img/sa_sb2.jpg">
