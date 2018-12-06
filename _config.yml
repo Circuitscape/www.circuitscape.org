@@ -32,7 +32,6 @@ plugins:
 
 # Header pages
 header_pages: 
-  - index.md
   - docs.md
   - downloads.md 
   - about.md 
