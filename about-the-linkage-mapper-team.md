@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About the LinkageMapper Team
+permalink: about-the-linkage-mapper-team/
 ---
 
 Our “Founding Father” is Brad McRae. He was a Senior Landscape Ecologist with The Nature Conservancy, but was struck down by cancer in 2017. He was an amazing man. His supervisor, Joe Fargione, wrote a wonderful eulogy: “...Everyone who knew Brad was impressed with his intelligence, thoughtfulness, integrity, honesty, and his steadfast commitment to what he cared about: his family, friends and conserving the natural world...”
 
-<img src="/img/brad.jpg" style="float:left; padding:5px;" hspace="20" width="400" height="224">
+<img src="img/brad.jpg" style="float:left; padding:5px;" hspace="20" width="400" height="224">
 
 “...Brad leaves an impressive legacy. He pioneered the use of circuit theory to model connectivity and gene flow across fragmented landscapes, and how to combine this with least-cost corridor theory. The software tools he developed, Circuitscape and Linkage Mapper, are now used in conservation planning around the world. He was passionate about supporting others' efforts to use these software packages to make real changes on the ground…” Rest his soul. 
 

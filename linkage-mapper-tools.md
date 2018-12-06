@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linkage Mapper Tools
-permalink: linkage-mapper/linkage-mapper-tools/
+permalink: linkage-mapper-tools/
 ---
 
 ### **Linkage Pathways Tool**
