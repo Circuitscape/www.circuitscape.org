@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Circuitscape
-permalink: /about/
+permalink: about/
 ---
 
 Circuitscape is an award-winning connectivity analysis software package which borrows algorithms from electronic circuit theory to predict patterns of movement, gene flow, and genetic differentiation among plant and animal populations in heterogeneous landscapes. Circuit theory complements least-cost path approaches because it considers effects of all possible pathways across a landscape simultaneously.
