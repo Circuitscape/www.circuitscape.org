@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linkage Mapper
-permalink: /linkage-mapper/
+permalink: linkage-mapper/
 ---
 <img style="float: left; height: 267px; padding: 5px; border: 1px solid #ddd; border-radius: 4px;" src="img/lm_logo.jpg" hspace="10">
 
