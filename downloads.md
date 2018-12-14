@@ -4,6 +4,8 @@ title: Downloads
 permalink: downloads/
 ---
 
+Consider using the new [Circuitscape v5 (beta)](https://github.com/Circuitscape/Circuitscape.jl). It is **4-8x** faster than the older version and has more features.
+
 ### **WINDOWS**: 
 
 * [**64-bit Windows executable**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-4.0.5-x64-setup.exe). Most PC users will want this version. See our [FAQ](http://www.circuitscape.org/FAQ) about working with large grids.
