@@ -14,4 +14,4 @@ title: Publications
 
 ## Publications using Circuitscape
 
-- [Click here to search Google Scholar for papers using Circuitscape.](https://scholar.google.com/scholar?q=circuitscape&hl=en&as_sdt=1,48&as_vis=1)
+- [Papers using Circuitscape.](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en)
