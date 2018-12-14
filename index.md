@@ -3,7 +3,7 @@ layout: home
 title: Welcome to the Circuitscape Project
 ---
 
-<img src="img/banner.PNG">
+<img src="img/banner.PNG" style="align:center">
 
 <img style="float: right; height: 267px; width: 400px pad: 2px" src="img/sa_sb2.jpg">
 
