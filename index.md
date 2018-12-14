@@ -11,7 +11,7 @@ This site is home to [Circuitscape](/), [Linkage Mapper](http://www.circuitscape
 
 See the tabs above for more info, downloads, and other connectivity modeling tools and resources.
 
-**November 2018** - [Circuitscape v5](https://github.com/Circuitscape/Circuitscape.jl) is now available.  The new Circuitscape is a complete overhaul with speed improvements. You can use the command line version by following the instructions on the [**GitHub project page**](Circuit-theory applications to connectivity science and conservation). Download links coming soon.
+**November 2018** - Circuitscape v5 is now available.  The new Circuitscape is a complete overhaul with speed improvements. You can use the command line version by following the instructions on the **GitHub project page**. Download links coming soon.
 
 **July 2016**- The Circuitscape user community keeps growing.  We've compiled some **example applications** including new fields like crop science, archaeology, fire risk management, and epidemiology.
 
@@ -39,4 +39,4 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 ## Acknowlegments
 
-We are especially grateful to [NASA for funding Circuitscape 5.0](https://appliedsciences.nasa.gov/content/16-eco4cast-0018), a rewrite of Circuitscape in the Julia language, with many new features. The [Wilburforce Foundation](http://www.wilburforce.org/) funded [Circuitscape 4.0](http://www.circuitscape.org/downloads) and the Python version of Circuitscape. The [Cougar Fund](http://www.cougarfund.org/) also contributed to the original development. We also wish to thank the [Washington Program of The Nature Conservancy](http://waconservation.org/) and the [National Center for Ecological Analysis and Synthesis](http://www.nceas.ucsb.edu/) for supporting Brad McRae and the [University of California, Santa Barbara](http://www.ucsb.edu/) for supporting Viral Shah while they collaborated on the project.
+We are especially grateful to [NASA](https://appliedsciences.nasa.gov/content/16-eco4cast-0018) and [The Nature Conservancy](https://www.nature.org) for Circuitscape 5.0, a major upgrade to Circuitscape using the Julia language. The [Wilburforce Foundation](http://www.wilburforce.org/) funded [Circuitscape 4.0](http://www.circuitscape.org/downloads) and the Python version of Circuitscape. The [Cougar Fund](http://www.cougarfund.org/) also contributed to the original development. We also wish to thank the [Washington Program of The Nature Conservancy](http://waconservation.org/) and the [National Center for Ecological Analysis and Synthesis](http://www.nceas.ucsb.edu/) for supporting Brad McRae and the [University of California, Santa Barbara](http://www.ucsb.edu/) for supporting Viral Shah while they collaborated on the project.
