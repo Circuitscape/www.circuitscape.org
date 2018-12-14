@@ -4,7 +4,7 @@ title: Downloads
 permalink: downloads/
 ---
 
-Consider using the new [Circuitscape v5 (beta)](https://github.com/Circuitscape/Circuitscape.jl). It is **4-8x** faster than the older version and has more features.
+Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscape/Circuitscape.jl). It is **4-8x** faster than the older version and has more features.
 
 ### **WINDOWS**: 
 
