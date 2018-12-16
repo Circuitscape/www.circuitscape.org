@@ -84,6 +84,6 @@ Circuitscape 4 is made available under the Creative Commons license and was writ
 
 * Version 3.0: (12/01/08): First Python-based release. Added functionality, speed, and capacity to analyze large landscapes. Provided as a Windows executable.
 
-* [Version 2.5](https://www.circuitscape.org/Downloads/Circuitscape-2.5-Matlab.zip): Matlab version. Requires a Matlab license to run
+* Version 2.5: Matlab version. Requires a Matlab license to run
 
-* [Version 2.2](https://www.circuitscape.org/Downloads/Circuitscape_2.2.zip): Java version. It’s slow, but works for small landscapes.
+* Version 2.2: Java version. It’s slow, but works for small landscapes.
