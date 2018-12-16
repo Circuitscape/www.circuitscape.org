@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linkage Mapper
-permalink: linkage-mapper/
+permalink: linkagemapper/
 ---
 <img style="float: left; height: 267px; padding: 5px; border: 1px solid #ddd; border-radius: 4px;" src="../img/lm_logo.jpg" hspace="10">
 
@@ -35,6 +35,6 @@ Please see the [**Linkage Mapper Tools** ](/linkage-mapper-tools/) page for furt
 
 ## More information
 
-* [Linkage Mapper Tools](/linkage-mapper-tools/)
+* [Linkage Mapper Tools](/linkagemapper/linkage-mapper-tools/)
 
-* [About the Linkage Mapper Team](/about-the-linkage-mapper-team/)
+* [About the Linkage Mapper Team](/linkagemapper/about-the-team/)
