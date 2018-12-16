@@ -26,7 +26,7 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 * [Circuitscape wins Wildlife Society award](http://tlocoh.r-forge.r-project.org/tws-setwg_newsletter_s14.pdf)
 
-* [Circuitscape on the cover of Methods in Ecology & Evolutio](http://www.circuitscape.org/circuitscape-on-the-cover-of-methods-in-ecology-evolution)[n](http://www.circuitscape.org/circuitscape-on-the-cover-of-methods-in-ecology-evolution)
+* [Circuitscape on the cover of Methods in Ecology & Evolutio](http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-5-7-coverlarge.jpg)
 
 * [Predicting climate-driven movement for 3000 species](http://www.conservationcorridor.org/2013/07/predicting-how-climate-change-will-shift-animal-movement-routes/)
 
