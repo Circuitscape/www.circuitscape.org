@@ -24,7 +24,7 @@ Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscap
 
 ### **Linux:**
 
-* Python source code as a Python package](https://pypi.python.org/pypi/Circuitscape/). For developers and Linux users; see the [user guide](https://circuitscape.org/circuitscape_4_0_user_guide.html).
+* Python source code as a [Python package](https://pypi.python.org/pypi/Circuitscape/).
 
 
 ### **User guide:** 
