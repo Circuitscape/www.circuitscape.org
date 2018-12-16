@@ -15,7 +15,7 @@ The links below give more background on Circuitscape and how it is used:
 - [FAQ](http://www.circuitscape.org/FAQ)
 - [Publications](http://www.circuitscape.org/pubs)
 - [Press](http://www.circuitscape.org/press)
-- [About the authors](http://www.circuitscape.org/about-the-authors)
+- [About the authors](authors.html)
 
 More info about how Circuitscape is used and our plans for future development can be found in [**this white paper**](pubs/circuitscape_whitepaper.pdf).
 
