@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Welcome to the Circuitscape Project
 ---
 
 <img src="img/banner.PNG" style="align: center;">
