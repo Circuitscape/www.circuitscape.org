@@ -26,21 +26,18 @@ Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscap
 
 * Python source code as a [Python package](https://pypi.python.org/pypi/Circuitscape/).
 
-
-### **User guide:** 
-
-* [**View the user guide here**](/docs/)
-
-
+{% comment %} 
 **Extras**:
 * **Circuitscape Tutorial**. Send us suggestions or new labs/tutorials if you create any! 
 * **ArcGIS “Export to Circuitscape” tool**. Good if you are running ArcGIS 9.x and can't use the [ArcGIS Toolbox](https://circuitscape.googlecode.com/files/Circuitscape_for_ArcGIS_2013_10_08_rev2.zip).
-
+{% endcomment %}
 
 #### **HELP US IMPROVE CIRCUITSCAPE!**
 * Please report bugs and suggest enhancements to the [**Circuitscape user group**](https://groups.google.com/group/circuitscape?hl=en). 
 
-Circuitscape is made available under the Creative Commons license and was written in [Python 2.7.2](https://www.python.org/) using these free Python modules: [wxPython](http://www.wxpython.org/), [PythonCard](http://pythoncard.sourceforge.net/), [Numpy](http://numpy.scipy.org/), [Scipy](http://www.scipy.org/), and [Pyamg.](http://code.google.com/p/pyamg/)
+[Circuitscape 5](https://github.com/Circuitscape/Circuitscape.jl) is developed in [Julia](https://julialang.org) and is available on GitHub. It is made available under the open source MIT license.
+
+Circuitscape 4 is made available under the Creative Commons license and was written in [Python 2.7.2](https://www.python.org/) using these free Python modules: [wxPython](http://www.wxpython.org/), [PythonCard](http://pythoncard.sourceforge.net/), [Numpy](http://numpy.scipy.org/), [Scipy](http://www.scipy.org/), and [Pyamg.](http://code.google.com/p/pyamg/)
 
 
 #### **Version History** 
