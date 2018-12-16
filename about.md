@@ -11,7 +11,7 @@ Circuitscape is an award-winning connectivity analysis software package which bo
 The links below give more background on Circuitscape and how it is used: 
 
 - [Applications](https://www.circuitscape.org/applications)
-- [Circuitscape user guide](https://circuitscape.org/circuitscape_4_0_user_guide.html)
+- [Circuitscape user guide](https://circuitscape.org/docs/)
 - [FAQ](http://www.circuitscape.org/FAQ)
 - [Publications](http://www.circuitscape.org/pubs)
 - [Press](http://www.circuitscape.org/press)
