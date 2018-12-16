@@ -24,7 +24,7 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 [**"One glorious map"**](http://www.climatecentral.org/news/map-animal-migration-climate-change-20646) using Circuitscape to model species responses to climate change almost breaks the internet. More [here](http://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/) and [here](http://www.smithsonianmag.com/smart-news/mesmerizing-animation-shows-where-animals-going-survive-climate-change-180960253/).
 
-* [Circuitscape wins Wildlife Society award](http://www.circuitscape.org/circuitscape-wins-wildlife-society-award)
+* [Circuitscape wins Wildlife Society award](http://www.circuitscape.org/http://tlocoh.r-forge.r-project.org/tws-setwg_newsletter_s14.pdf)
 
 * [Circuitscape on the cover of Methods in Ecology & Evolutio](http://www.circuitscape.org/circuitscape-on-the-cover-of-methods-in-ecology-evolution)[n](http://www.circuitscape.org/circuitscape-on-the-cover-of-methods-in-ecology-evolution)
 
