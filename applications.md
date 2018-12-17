@@ -14,8 +14,9 @@ Within the Nature Conservancy, connectivity analyses using Circuitscape are bein
 
 Multispecies connectivity planning in Borneo (Brodie et al. 2015).Connectivity for pumas in Arizona and New Mexico (Dickson et al. 2013).Large landscape planning across Ontario, Canada (Bowman and Cordes 2015).Connectivity prioritization for gibbons (Vasudev and Fletcher 2015).Corridors for tigers in India (Joshi et al. 2013, Dutta et al. 2015).Connectivity for Amur leopards in China (Jiang et al. 2015).Trans-boundary conservation of Persian leopards in Iran, Turkey, Armenia, and Azerbaijan (Farhadiniaa et al. 2015).Multi-scale connectivity planning in Australia (Lechner et al. 2015).Wall-to-wall’ methods that don’t require core areas to connect (Anderson et al. 2012, 2014, Pelletier et al. 2014).
 
-*![img](http://www.circuitscape.org/_/rsrc/1468528904642/applications/Dutta.PNG?height=255&width=400)*
+<img src="/img/Dutta.PNG">
 
+*Dutta et al. (2015) combined Circuitscape with least-cost corridor methods to map pinch points within corridors connecting protected areas for tigers in central India. Areas with high current flow are most important for tiger movements and keeping the network connected.* 
 
 #### Landscape genetics
 
@@ -49,6 +50,8 @@ Circuit theory can also be used to predict movements of animals and how these af
 - movement and gap crossing behavior of forest interior songbirds (St. Louis et al. 2014); and
 - how local abundance and dispersal scale up to affect metapopulation persistence and community stability (Brodie et al. 2016). 
 
+<img src="/img/roadcrossings2.png">
+
 *Circuit theory is being used to mitigate road impacts on wildlife and improve driver safety in at least six countries. (a) Circuit theory (implemented using Graphab) outperformed other connectivity models for predicting vehicle collisions with roe deer in France (**Girardet et al. 2015**). (b) A wall-to-wall connectivity map created using Circuitscape was highly correlated with road mortality for amphibians and reptiles and habitat use by fishers in eastern Ontario, Canada (from Koen et al. 2014). Similar methods are now being used across Ontario and in many other parts of Canada.* 
 
 #### Connectivity for climate change
@@ -59,6 +62,8 @@ Predicting important areas for range shifts under climate change is an exciting 
 - Lawler et al. (2013) used Circuitscape to project movements of nearly 3000 species in response to climate change across the Western Hemisphere. [See an animation of their results here](https://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00).
 - Razgour (2015) combined species distributions, climate projections, genetic data, and Circuitscape to predict range shift pathways for bats in Iberia.
 - New methods connecting natural lands to those that have similar projected future climates (Littlefield et al. in review) and connecting across climate gradients (McRae et al. in 2016) are in active development.
+
+<img src="/img/sa.gif">
 
 *Projected climate-driven range shifts of 2903 species in response to climate change using Circuitscape. Arrows represent the direction of modelled movements from unsuitable climates to suitable climates via routes that avoid human land uses. From Lawler et al. (2013). Explore the full animation of these results* [*here*](https://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00)*.*
 
@@ -75,7 +80,11 @@ Circuitscape is breaking into new areas like epidemiology, invasive species spre
 - fuel connectivity and wildfire risk (Gray and Dickson 2015, 2016); and
 - strategic fuel breaks to protect sage-grouse habitat from wildfire (Welch et al. 2015).
 
+<center><img src="/img/graydickson.gif" style="padding:5px"></center>
+
 *Fire likelihood across Arizona’s lower Sonoran Desert, using Circuitscape to model fuel connectivity. Areas with high predicted fire risk corresponded with burned area data showing where wildfires occurred from 2000 to 2012 (Gray and Dickson 2015). This method has been extended to evaluate fuel treatments where invasive cheatgrass is increasing fire (Gray and Dickson 2016).*
+
+<center><img src="/img/fire3.png" style="padding:5px"></center>
 
 *Welch et al. (2015) used a similar analysis to identify strategic areas for fuel breaks to protect greater sage-grouse habitat.*
 
