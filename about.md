@@ -10,12 +10,12 @@ Circuitscape is an award-winning connectivity analysis software package which bo
 
 The links below give more background on Circuitscape and how it is used: 
 
-- [Applications](https://www.circuitscape.org/applications)
-- [Circuitscape user guide](https://circuitscape.org/docs/)
+- [Applications](/applications/)
+- [Circuitscape user guide](/docs/)
 - [FAQ](http://www.circuitscape.org/FAQ)
 - [Publications](http://www.circuitscape.org/pubs)
 - [Press](http://www.circuitscape.org/press)
-- [About the authors](authors.html)
+- [About the authors](/authors/)
 
 More info about how Circuitscape is used and our plans for future development can be found in [**this white paper**](pubs/circuitscape_whitepaper.pdf).
 
