@@ -4,7 +4,9 @@ title: Downloads
 permalink: downloads/
 ---
 
-Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscape/Circuitscape.jl). It is **4-8x** faster than the older version and has more features.
+Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscape/Circuitscape.jl). It is **4-8x** faster than the older version and has more features. 
+
+The following binary downloads are for Circuitscape v4.0.5.
 
 ### **WINDOWS**: 
 
@@ -16,7 +18,7 @@ Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscap
 
 * [**Gnarly Landscape Utilities**](../gnarly-landscape-utilities/). An ArcGIS toolbox that creates resistance and core areas needed by Circuitscape.
 
-* **Linkage Mapper**. An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses. 
+* [**Linkage Mapper**](../linkagemapper/). An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses. 
 
 ###  **MAC OS X:** 
 
