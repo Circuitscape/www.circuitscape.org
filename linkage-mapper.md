@@ -10,7 +10,7 @@ Linkage Mapper supports regional wildlife habitat connectivity analyses. It cons
 ### Downloads 
 
 **Latest ArcGIS 10.0 - 10.6 Version**: [Linkage Mapper 2.0.0](https://github.com/linkagescape/linkage-mapper/files/2204107/Linkage_Mapper_2_0_0.zip)
-**Latest ArcGIS 9.3 Version**: [Linkage Mapper 1.1.0](http://circuitscape.nfshost.com/Downloads/LinkageMapper_1_1_0.zip)
+**Latest ArcGIS 9.3 Version**: [Linkage Mapper 1.1.0](downloads/LinkageMapper_1_1_0.zip)
 
 Extras: [Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers ](http://circuitscape.nfshost.com/Downloads/LM_Lab_V2.zip)
 
