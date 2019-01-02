@@ -14,7 +14,7 @@ Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscap
 
 * [**Circuitscape ArcGIS toolbox**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape_for_ArcGIS_2013_10_08_rev2.zip). Calls Circuitscape from ArcMap (requires ArcGIS 10.0 or newer, and Circuitscape must be installed). 
 
-* [**Gnarly Landscape Utilities**](gnarly-landscape-utilities/). An ArcGIS toolbox that creates resistance and core areas needed by Circuitscape.
+* [**Gnarly Landscape Utilities**](../gnarly-landscape-utilities/). An ArcGIS toolbox that creates resistance and core areas needed by Circuitscape.
 
 * **Linkage Mapper**. An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses. 
 
