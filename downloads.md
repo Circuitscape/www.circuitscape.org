@@ -4,7 +4,14 @@ title: Downloads
 permalink: downloads/
 ---
 
-Consider testing the new [Circuitscape v5 (beta)](https://github.com/Circuitscape/Circuitscape.jl). It is **4-8x** faster than the older version and has more features. 
+Circuitscape v5 (beta) binaries now available:
+
+* [**64-bit Windows installer**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.4.0_x64.exe)
+* [**64-bit Mac executable **](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.4.0_x64.dmg)
+
+Feedback and bug reports can be posted [here](https://github.com/Circuitscape/Circuitscape.jl/issues). 
+
+## Legacy 
 
 The following binary downloads are for Circuitscape v4.0.5.
 
