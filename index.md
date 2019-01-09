@@ -10,7 +10,9 @@ This site is home to [Circuitscape](/), [Linkage Mapper](http://www.circuitscape
 
 See the tabs above for more info, downloads, and other connectivity modeling tools and resources.
 
-**November 2018** - Circuitscape v5 is now available.  The new Circuitscape is a complete overhaul with speed improvements. You can use the command line version by following the instructions on the **GitHub project page**. Download links coming soon.
+**January 2019** - Circuitscape v5 (beta) binaries are now [available](downloads/). 
+
+**November 2018** - Circuitscape v5 is now available.  The new Circuitscape is a complete overhaul with speed improvements. You can use the command line version by following the instructions on the [**GitHub project page**](https://github.com/Circuitscape/Circuitscape.jl). Download links coming soon.
 
 **July 2016**- The Circuitscape user community keeps growing.  We've compiled some **example applications** including new fields like crop science, archaeology, fire risk management, and epidemiology.
 
