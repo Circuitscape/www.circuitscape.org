@@ -14,15 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Circuitscape
-email: your-email@example.com
+email: circuitscape@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Circuitscape is an award-winning connectivity analysis software package which 
+    borrows algorithms from electronic circuit theory to predict patterns of movement, 
+    gene flow, and genetic differentiation among plant and animal populations 
+    in heterogeneous landscapes. Circuitscape has rapidly become the most widely used 
+    connectivity analysis package in the world. It is used by numerous state, federal, 
+    and local agencies in the USA, and by government ministries and NGOs for conservation 
+    planning on six continents. It routinely appears in journals like PNAS, 
+    Nature Genetics, Ecology, Ecological Applications, Ecology Letters, Landscape Ecology, 
+    Evolution, Heredity, Bioscience, Molecular Ecology, Conservation Biology, and many others. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  Circuitscape
 
 # Build settings
 markdown: kramdown
