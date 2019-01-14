@@ -18,4 +18,6 @@ title: Publications
 
 ## Mass media
 
-- "Where the wild things are" in [UC Santa Barbara Convergence](https://issuu.com/convergence/docs/convergence-10) magazine.
+- [Scientist Employs Circuit Theory to Protect Endangered Species](https://www.wired.com/2007/12/dissection-1210/) in Wired magazine, by Carl Zimmer
+- [Circuitous Routes](https://www.conservationmagazine.org/2008/07/circuitous-routes/) in Conservation Magazine, by Eric Wagner
+- "Where the wild things are" in [UC Santa Barbara Convergence](https://issuu.com/convergence/docs/convergence-10) magazine, by Anna Davison
