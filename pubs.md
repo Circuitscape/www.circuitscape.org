@@ -15,3 +15,7 @@ title: Publications
 ## Publications using Circuitscape
 
 - [Papers using Circuitscape.](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en)
+
+## Mass media
+
+- "Where the wild things are" in [UC Santa Barbara Convergence](https://issuu.com/convergence/docs/convergence-10) magazine.

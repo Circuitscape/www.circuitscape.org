@@ -10,7 +10,7 @@ This site is home to [Circuitscape](/), [Linkage Mapper](http://www.circuitscape
 
 See the tabs above for more info, downloads, and other connectivity modeling tools and resources.
 
-**January 2019** - Circuitscape v5 (beta) binaries are now [available](downloads/). 
+**January 2019** - Circuitscape v5 (beta) binaries are now [available](downloads/).
 
 **November 2018** - Circuitscape v5 is now available.  The new Circuitscape is a complete overhaul with speed improvements. You can use the command line version by following the instructions on the [**GitHub project page**](https://github.com/Circuitscape/Circuitscape.jl). Download links coming soon.
 
@@ -28,13 +28,13 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 * [Circuitscape wins Wildlife Society award](http://tlocoh.r-forge.r-project.org/tws-setwg_newsletter_s14.pdf)
 
-* [Circuitscape on the cover of Methods in Ecology & Evolutio](http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-5-7-coverlarge.jpg)
+* [Circuitscape on the cover of Methods in Ecology & Evolution](http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-5-7-coverlarge.jpg)
 
 * [Predicting climate-driven movement for 3000 species](http://www.conservationcorridor.org/2013/07/predicting-how-climate-change-will-shift-animal-movement-routes/)
 
 * [Using Circuitscape to predict HIV spread in Africa](http://www.academia.edu/4707367/Spatial_accessibility_and_the_spread_of_HIV-1_subtypes_and_recombinants)
 
-## Authors 
+## Authors
 
 **Circuitscape was written by Brad McRae, Viral Shah, Tanmay Mohapatra, and Ranjan Anantharaman.**  More details about the authors [**here**](/authors.html).
 
