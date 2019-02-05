@@ -31,7 +31,7 @@ Linkage Mapper is an open access project in active development by a [**dynamic t
 
 Please join the Linkage Mapper User Group for support and updates on new releases. You can contribute and comment on development by joining our [**Github Site and Group**](https://github.com/linkagescape/linkage-mapper), and you can post your final maps, or work in progress, at our shared [**Data Basin Gallery**](https://databasin.org/galleries/027492e42545494cae53ca1f61b46c17).
 
-Please see the [**Linkage Mapper Tools** ](/linkage-mapper-tools/) page for further details and maps of each output.
+Please see the [**Linkage Mapper Tools** ](https://circuitscape.org/linkagemapper/linkage-mapper-tools/) page for further details and maps of each output.
 
 ## More information
 
