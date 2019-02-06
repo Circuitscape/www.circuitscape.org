@@ -38,56 +38,61 @@ The Linkage Priority Tool was implemented to help quantify the relative conserva
 
 
 
-[Castilho CS, Hackbart VCS, Pivello VR, dos Santos RF. 2015. Evaluating Landscape Connectivity for Puma concolor and Panthera onca Among Atlantic Forest Protected Areas. Environmental management 55:1377–1389. Available from ](http://paperpile.com/b/f97yev/DscGZ)<http://dx.doi.org/10.1007/s00267-015-0463-7>[.](http://paperpile.com/b/f97yev/DscGZ)
+Castilho CS, Hackbart VCS, Pivello VR, dos Santos RF. 2015. Evaluating Landscape Connectivity for Puma concolor and Panthera onca Among Atlantic Forest Protected Areas. Environmental management 55:1377–1389. <http://dx.doi.org/10.1007/s00267-015-0463-7>
 
 
 
-[Dutta T, Sharma S, McRae BH, Roy PS, DeFries R. 2015. Connecting the dots: mapping habitat connectivity for tigers in central India. Regional Environmental Change 16:53–67. Springer Berlin Heidelberg. Available from ](http://paperpile.com/b/f97yev/4kf3)<http://link.springer.com/article/10.1007/s10113-015-0877-z>[ (accessed August 5, 2016).](http://paperpile.com/b/f97yev/4kf3)
+Dutta T, Sharma S, McRae BH, Roy PS, DeFries R. 2015. [Connecting the dots: mapping habitat connectivity for tigers in central India.](http://link.springer.com/article/10.1007/s10113-015-0877-z) Regional Environmental Change 16:53–67. Springer Berlin Heidelberg.
+
+
+Gallo JA, Greene R. 2018. Connectivity Analysis Software for Estimating Linkage Priority. Conservation Biology Institute, Corvallis, OR. <http://dx.doi.org/10.6084/m9.figshare.5673715>
 
 
 
-[Gallo JA, Greene R. 2018. Connectivity Analysis Software for Estimating Linkage Priority. Conservation Biology Institute, Corvallis, OR. Available from ](http://paperpile.com/b/f97yev/fPPHe)<http://dx.doi.org/10.6084/m9.figshare.5673715>[ (accessed March 26, 2018).](http://paperpile.com/b/f97yev/fPPHe)
+Jones, A. 2015. [Mapping Habitat Connectivity for Greater Sage-Grouse in Oregon’s Sage-Grouse
+Conservation Partnership (SageCon) Assessment Area.](https://databasin.org/documents/documents/914b7516f6b042fab105117d318eb702/download/) Produced by The Nature Conservancy (Portland OR) in
+partial fulfillment of BLM Cooperative Agreement L12AC20615
 
 
 
-[Jones, A. 2015. Mapping Habitat Connectivity for Greater Sage-Grouse in Oregon’s Sage-Grouse
-Conservation Partnership (SageCon) Assessment Area. Produced by The Nature Conservancy (Portland OR) in
-partial fulfillment of BLM Cooperative Agreement L12AC20615](https://databasin.org/documents/documents/914b7516f6b042fab105117d318eb702/download/)
+Kavanagh DM, Nuñez TA, McRae BH. 2012. Climate linkage mapper connectivity analysis software. The Nature Conservancy, Seattle WA. Available from <http://www.circuitscape.org/linkagemapper>.
 
 
 
-[Kavanagh DM, Nuñez TA, McRae BH. 2012. Climate linkage mapper connectivity analysis software. The Nature Conservancy, Seattle WA. Available from ](http://paperpile.com/b/f97yev/Ktrz)[www.circuitscape.org/linkagemapper](http://www.circuitscape.org/linkagemapper)[.](http://paperpile.com/b/f97yev/Ktrz)
+Littlefield CE, McRae BH, Michalak JL, Lawler JJ, Carroll C. 2017. [Connecting today’s climates to future climate analogs to facilitate movement of species under climate change.](http://dx.doi.org/10.1111/cobi.12938) Conservation Biology: the Journal of the Society for Conservation Biology 31:1397–1408. 
 
 
 
-[Littlefield CE, McRae BH, Michalak JL, Lawler JJ, Carroll C. 2017. Connecting today’s climates to future climate analogs to facilitate movement of species under climate change. Conservation biology: the journal of the Society for Conservation Biology 31:1397–1408. Available from ](http://paperpile.com/b/f97yev/ApMA)<http://dx.doi.org/10.1111/cobi.12938>[.](http://paperpile.com/b/f97yev/ApMA)
+McRae BH. 2012a. Pinchpoint Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <http://www.circuitscape.org/linkagemapper>
 
 
 
-[McRae BH. 2012a. Pinchpoint Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from ](http://paperpile.com/b/f97yev/3RNsw)<http://www.circuitscape.org/linkagemapper>[.](http://paperpile.com/b/f97yev/3RNsw)
+McRae BH. 2012b. Centrality Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle WA. Available from <http://www.circuitscape.org/linkagemapper> 
 
 
 
-[McRae BH. 2012b. Centrality Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle WA. Available from ](http://paperpile.com/b/f97yev/N31oa)<http://www.circuitscape.org/linkagemapper>[.](http://paperpile.com/b/f97yev/N31oa)
+McRae BH. 2012c. Barrier Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA.  Available from <http://www.circuitscape.org/linkagemapper>
 
 
 
-[McRae BH. 2012c. Barrier Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA.](http://paperpile.com/b/f97yev/t3cy)
+McRae BH, Dickson BG, Keitt TH, Shah VB. 2008. [Using circuit theory to model connectivity in ecology, evolution, and conservation.](https://www.ncbi.nlm.nih.gov/pubmed/18959309) Ecology 89:2712–2724. 
 
 
 
-[McRae BH, Dickson BG, Keitt TH, Shah VB. 2008. Using circuit theory to model connectivity in ecology, evolution, and conservation. Ecology 89:2712–2724. Available from ](http://paperpile.com/b/f97yev/MgVqV)<https://www.ncbi.nlm.nih.gov/pubmed/18959309>[.](http://paperpile.com/b/f97yev/MgVqV)
+McRae BH, Hall SA, Beier P, Theobald DM. 2012. [Where to restore ecological connectivity? Detecting barriers and quantifying restoration benefits.](http://dx.doi.org/10.1371/journal.pone.0052604) PloS one 7:e52604. journals.plos.org. 
 
 
 
-[McRae BH, Hall SA, Beier P, Theobald DM. 2012. Where to restore ecological connectivity? Detecting barriers and quantifying restoration benefits. PloS one 7:e52604. journals.plos.org. Available from ](http://paperpile.com/b/f97yev/nTRR)<http://dx.doi.org/10.1371/journal.pone.0052604>[.](http://paperpile.com/b/f97yev/nTRR)
-
-[McRae BH, Kavanagh DM. 2011. Linkage Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from ](http://paperpile.com/b/f97yev/9jQPB)<http://www.circuitscape.org/linkagemapper.>
-
-[McRae B, Shah V. 2009. Circuitscape User Guide. University of California, Santa Barbara. Available from ](http://paperpile.com/b/f97yev/hP2QF)[http://www.circuitscape.org](http://www.circuitscape.org/)[.](http://paperpile.com/b/f97yev/hP2QF)
-
-[Nuñez TA, Lawler JJ, McRae BH, Pierce DJ, Krosby MB, Kavanagh DM, Singleton PH, Tewksbury JJ. 2013. Connectivity planning to address climate change. Conservation biology: the journal of the Society for Conservation Biology 27:407–416. Wiley Online Library. Available from ](http://paperpile.com/b/f97yev/SM3q)<http://dx.doi.org/10.1111/cobi.12014>[.](http://paperpile.com/b/f97yev/SM3q)
+McRae BH, Kavanagh DM. 2011. Linkage Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <http://www.circuitscape.org/linkagemapper.>
 
 
+
+McRae B, Shah V. 2009. Circuitscape User Guide. University of California, Santa Barbara. Available from: <http://www.circuitscape.org>
+
+
+
+Nuñez TA, Lawler JJ, McRae BH, Pierce DJ, Krosby MB, Kavanagh DM, Singleton PH, Tewksbury JJ. 2013. [Connectivity planning to address climate change.](http://dx.doi.org/10.1111/cobi.12014) Conservation Biology: the Journal of the Society for Conservation Biology 27:407–416. Wiley Online Library. 
+
+Note: Most, if not all of these are available to Linkage Mapper users as .pdfs, upon request.
 
 .
