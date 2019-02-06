@@ -14,9 +14,11 @@ This tool can be thought of as the “Climate-Traversing Linkage Pathways Tool.�
 
 ### **Pinchpoint Mapper**
 
-Once corridors have been mapped using Linkage Pathways, or Climate Linkage Mapper, Pinchpoint Mapper utilizes circuit theory to run Circuitscape [(McRae & Shah 2009)](https://paperpile.com/c/f97yev/hP2QF) within the resulting corridors. This produces current-maps that identify and map pinch points (i.e., constrictions or bottlenecks) within the linkages [(McRae 2012a)](https://paperpile.com/c/f97yev/3RNsw). [(McRae 2012a)](https://paperpile.com/c/f97yev/3RNsw). More details on circuit theory and on Circuitscape software can be found in McRae et al. [(2008)](https://paperpile.com/c/f97yev/MgVqV/?noauthor=1) and McRae and Shah [(2009)](https://paperpile.com/c/f97yev/hP2QF/?noauthor=1).  Pinch points represent areas where movement would be funneled and thus may be particularly important to keeping intact.  Even a small loss of area in these pinch points would disproportionately compromise connectivity [(Castilho et al. 2015)](https://paperpile.com/c/f97yev/DscGZ).  ![img](img/lm3.png)Pinchpoint mapper output and Habitat Concentration Areas (HCAs) for white-tailed jackrabbit (Lepus townsendii). [Link here for the Interactive Map.](https://databasin.org/maps/2147e6fa4419481f803ff916b5cd7b9f/active) **Barrier Mapper**
+Once corridors have been mapped using Linkage Pathways, or Climate Linkage Mapper, Pinchpoint Mapper utilizes circuit theory to run Circuitscape [(McRae & Shah 2009)](https://paperpile.com/c/f97yev/hP2QF) within the resulting corridors. This produces current-maps that identify and map pinch points (i.e., constrictions or bottlenecks) within the linkages [(McRae 2012a)](https://paperpile.com/c/f97yev/3RNsw). [(McRae 2012a)](https://paperpile.com/c/f97yev/3RNsw). More details on circuit theory and on Circuitscape software can be found in McRae et al. [(2008)](https://paperpile.com/c/f97yev/MgVqV/?noauthor=1) and McRae and Shah [(2009)](https://paperpile.com/c/f97yev/hP2QF/?noauthor=1).  Pinch points represent areas where movement would be funneled and thus may be particularly important to keeping intact.  Even a small loss of area in these pinch points would disproportionately compromise connectivity [(Castilho et al. 2015)](https://paperpile.com/c/f97yev/DscGZ).  ![img](img/lm3.png)Pinchpoint mapper output and Habitat Concentration Areas (HCAs) for white-tailed jackrabbit (Lepus townsendii). [Link here for the Interactive Map.](https://databasin.org/maps/2147e6fa4419481f803ff916b5cd7b9f/active) 
 
-Once linkages are created using the Linkage Pathways tool, or Climate Linkage Mapper, Barrier Mapper quantifies the importance of “barriers” that affect the quality and/or location of the corridors [(McRae 2012c)](https://paperpile.com/c/f97yev/t3cy).  The term “barriers” is used in a general way and includes portions of a landscape that are difficult to pass through for wildlife, but are not barriers in the formal sense of the term. In essence, they identify areas for restoration and mitigation. Much more detail is provided in a publication by McRae et al. [(2012)](https://paperpile.com/c/f97yev/nTRR/?noauthor=1). ![img](img/lm4.png)Barrier mapper output and Habitat Concentration Areas (HCAs) for white-tailed jackrabbit (Lepus townsendii). [Link here for the Interactive Map.](https://databasin.org/maps/07b161cf59c14039b79d81d4ffd9038b/active) 
+### **Barrier Mapper**
+
+Once linkages are created using the Linkage Pathways tool, or Climate Linkage Mapper, Barrier Mapper quantifies the importance of “barriers” that affect the quality and/or location of the corridors [(McRae 2012c)](https://paperpile.com/c/f97yev/t3cy).  The term “barriers” is used in a general way and includes portions of a landscape that are difficult to pass through for wildlife, but are not barriers in the formal sense of the term. In essence, they identify areas for restoration and mitigation. Much more detail is provided in a publication by McRae et al. [(2012)](https://paperpile.com/c/f97yev/nTRR/?noauthor=1). ![img](img/barriermapper.png) "Lek Kernals" (i.e. HCAs) for greater sage grouse as well as linkages, linkage barriers, and restoration opportunities [Link here for the Interactive Map,](https://databasin.org/maps/c897306da2d94c558fbe8bc79e93a035/active) ...[and Gallery derived from Jones 2015](https://databasin.org/galleries/843cdce2d4fc419da0d4587950c20de2)
 
 ### **Centrality Mapper**
 
@@ -45,6 +47,12 @@ The Linkage Priority Tool was implemented to help quantify the relative conserva
 
 
 [Gallo JA, Greene R. 2018. Connectivity Analysis Software for Estimating Linkage Priority. Conservation Biology Institute, Corvallis, OR. Available from ](http://paperpile.com/b/f97yev/fPPHe)<http://dx.doi.org/10.6084/m9.figshare.5673715>[ (accessed March 26, 2018).](http://paperpile.com/b/f97yev/fPPHe)
+
+
+
+[Jones, A. 2015. Mapping Habitat Connectivity for Greater Sage-Grouse in Oregon’s Sage-Grouse
+Conservation Partnership (SageCon) Assessment Area. Produced by The Nature Conservancy (Portland OR) in
+partial fulfillment of BLM Cooperative Agreement L12AC20615](https://databasin.org/documents/documents/914b7516f6b042fab105117d318eb702/download/)
 
 
 
