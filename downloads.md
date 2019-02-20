@@ -7,8 +7,8 @@ permalink: downloads/
 Circuitscape v5 (beta) binaries now available:
 
 * [**64-bit Windows installer**](https://newcircuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.5.0_x64.exe)
-* [**64-bit Mac executable**](https://newcircuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.5.0.dmg)
-* [Project Page](https://github.com/Circuitscape/Circuitscape.jl)
+* [**64-bit Mac executable**](https://newcircuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.5.0_x64.dmg)
+* [**Project Page**](https://github.com/Circuitscape/Circuitscape.jl)
 
 Feedback and bug reports can be posted [here](https://github.com/Circuitscape/Circuitscape.jl/issues). 
 
