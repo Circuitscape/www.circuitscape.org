@@ -30,7 +30,7 @@ The following binary downloads are for Circuitscape v4.0.5.
 
 ###  **MAC OS X:** 
 
-* [Mac executable](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-4.0.5.dmg). For Macs using OS X 10.9 or later. You’ll want to get the [examples directory](https://circuitscapebinaries.blob.core.windows.net/binaries/examples.zip) too.
+* [Mac executable](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-4.0.5.dmg). For Macs using OS X 10.9 or later. You’ll want to get the [examples directory](https://github.com/Circuitscape/Circuitscape/tree/master/examples) too.
 
 ### **Linux:**
 
