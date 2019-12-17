@@ -4,9 +4,9 @@ title: Downloads
 permalink: downloads/
 ---
 
-Circuitscape.jl Version 5 is now available. Please follow the instructions on downloading Julia and Circuitscape:
+[Circuitscape.jl](https://github.com/Circuitscape/Circuitscape.jl) Version 5 is now available. Please follow the instructions on downloading Julia and Circuitscape:
 
-* [**Circuitscaspe.jl**](https://github.com/Circuitscape/Circuitscape.jl)
+* [**Circuitscaspe.jl installation**](https://github.com/Circuitscape/Circuitscape.jl/blob/master/README.md#Installation)
 * The old Circuitscape 4 GUI generated INI files are fully compatible with Circuitscape 5
 
 The Circuitscape 5 GUI is *experimental*, and we are still planning on the best way for users to create INI files:
