@@ -10,9 +10,14 @@ Linkage Mapper supports regional wildlife habitat connectivity analyses. It cons
 ### Downloads 
 
 **Latest ArcGIS 10.0 - 10.6 Version**: [Linkage Mapper 2.0.0](https://github.com/linkagescape/linkage-mapper/files/2204107/Linkage_Mapper_2_0_0.zip)
+
 **Latest ArcGIS 9.3 Version**: [Linkage Mapper 1.1.0](downloads/LinkageMapper_1_1_0.zip)
 
+(Note: User guides and tutorials are in zip folders.)
+
 Extras: [Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
+
+### Tools
 
 A brief summary of the tools follow, with additional details [here](http://www.circuitscape.org/linkagemapper/linkage-mapper-tools):
 
@@ -27,11 +32,11 @@ A brief summary of the tools follow, with additional details [here](http://www.c
 
 Please note: whatever tool you use, connectivity modeling involves a great deal of research, data compilation, GIS analyses, and careful interpretation of results. Defining areas to connect, parameterizing resistance models, and other modeling decisions you will need to make are not trivial. Before diving in, we strongly recommend that users first acquaint themselves with the process and challenges of connectivity modeling by consulting published resources. Good places to start include an [overview of habitat and corridor modeling on the Corridor Designer website](http://corridordesign.org/designing_corridors), the step-by-step guidance on connectivity assessments on the [Connecting Landscapes website](http://www.connectinglandscapes.org/), and references listed in the Linkage Mapper user guides. Need to create resistance or core area layers? Check out [Gnarly Landscape Utilities](http://www.circuitscape.org/gnarly-landscape-utilities) for an expert opinion approach to doing this.
 
-Linkage Mapper is an open access project in active development by a [**dynamic team**](http://www.circuitscape.org/linkagemapper/about-the-team). Please join the 
+Linkage Mapper is an open access project in active development by a [**dynamic team**](http://www.circuitscape.org/linkagemapper/about-the-team). 
 
-Linkage Mapper User Group for support and updates on new releases. You can contribute and comment on development by joining our [**Github Site and Group**](https://github.com/linkagescape/linkage-mapper), and you can post your final maps, or work in progress, at our shared [**Data Basin Gallery**](https://databasin.org/galleries/027492e42545494cae53ca1f61b46c17).
+Please join the [Linkage Mapper User Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email/#!forum/linkage-mapper) for support and updates on new releases. You can contribute and comment on development by joining our [**Github Site and Group**](https://github.com/linkagescape/linkage-mapper), and you can post your final maps, or work in progress, at our shared [**Data Basin Gallery**](https://databasin.org/galleries/027492e42545494cae53ca1f61b46c17).
 
-Please see the [**Linkage Mapper Tools** ](/linkage-mapper-tools/) page for further details and maps of each output.
+Please see the [**Linkage Mapper Tools** ](https://circuitscape.org/linkagemapper/linkage-mapper-tools/) page for further details and maps of each output.
 
 ## More information
 
