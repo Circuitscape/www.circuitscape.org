@@ -9,11 +9,6 @@ permalink: downloads/
 * [**Circuitscaspe.jl installation**](https://github.com/Circuitscape/Circuitscape.jl/blob/master/README.md#Installation)
 * The old Circuitscape 4 GUI generated INI files are fully compatible with Circuitscape 5
 
-The Circuitscape 5 GUI is *experimental*, and we are still planning on the best way for users to create INI files:
-
-* [**64-bit Windows installer**](https://newcircuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.5.0_x64.exe)
-* [**64-bit Mac executable**](https://newcircuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-5.5.0_x64.dmg)
-
 ## **Help us improve Circuitscape!**
 * Please report bugs and suggest enhancements to [Github issues page for Circuitscape.jl](https://github.com/Circuitscape/Circuitscape.jl/issues).
 
