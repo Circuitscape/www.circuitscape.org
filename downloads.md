@@ -26,7 +26,7 @@ The [Circuitscape.py](https://github.com/Circuitscape/Circuitscape.py/) project 
 
 * [**Gnarly Landscape Utilities**](https://circuitscapebinaries.blob.core.windows.net/binaries/Gnarly_Landscape_Utilities_0_1_9.zip). An ArcGIS toolbox that creates resistance and core areas needed by Circuitscape.
 
-* [**Linkage Mapper**](../linkagemapper/). An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses. 
+* [**Linkage Mapper**](https://circuitscape.org/linkagemapper/). An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses. 
 
 ###  **MAC OS X:** 
 
