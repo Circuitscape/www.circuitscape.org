@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: external
 title: Documentation
-permalink: docs/
+external_url: https://docs.circuitscape.org/Circuitscape.jl/latest/
 ---
 # CIRCUITSCAPE User Guide
 
