@@ -6,7 +6,7 @@ layout: home
 
 <img style="float: right; height: 267px; width: 400px pad: 2px" src="img/sa_sb2.jpg">
 
-This site is home to [Circuitscape](/), [Linkage Mapper](http://www.circuitscape.org/linkagemapper), and [Gnarly Landscape Utilities](http://www.circuitscape.org/gnarly-landscape-utilities). All are free and open source. Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes. Linkage Mapper uses least-cost corridor analysis, circuit theory, and barrier analysis to map corridors, detect pinch-points and restoration opportunities within them, and identify important core areas and corridors. Gnarly Landscape Utilities automates the creation of core area maps and resistance layers needed for connectivity modeling.
+This site is home to [Circuitscape](/), [Omniscape](https://docs.circuitscape.org/Omniscape.jl/latest/), [Linkage Mapper](http://www.circuitscape.org/linkagemapper), and [Gnarly Landscape Utilities](http://www.circuitscape.org/gnarly-landscape-utilities). All are free and open source. Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes. Omniscape offers a "coreless" approach by applying Circuitscape iteratively in a moving window to predict omni-directional connectivity. Linkage Mapper uses least-cost corridor analysis, circuit theory, and barrier analysis to map corridors, detect pinch-points and restoration opportunities within them, and identify important core areas and corridors. Gnarly Landscape Utilities automates the creation of core area maps and resistance layers needed for connectivity modeling.
 
 See the tabs above for more info, downloads, and other connectivity modeling tools and resources.
 
