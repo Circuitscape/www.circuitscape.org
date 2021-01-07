@@ -18,7 +18,7 @@ The [Circuitscape.py](https://github.com/Circuitscape/Circuitscape.py/) project 
 
 ### WINDOWS:
 
-* [**64-bit Windows executable**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-4.0.5-x64-setup.exe). Most PC users will want this version. See our [FAQ](http://www.circuitscape.org/FAQ) about working with large grids.
+* [**64-bit Windows executable**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-4.0.5-x64-setup.exe). Most PC users will want this version.
 * [**32-bit Windows executable**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape-4.0.3-Win32-setup.exe). (v4.0.3- update coming soon). For older PCs running 32-bit Windows.
 * [**Circuitscape ArcGIS toolbox**](https://circuitscapebinaries.blob.core.windows.net/binaries/Circuitscape_for_ArcGIS_2013_10_08_rev2.zip). Calls Circuitscape from ArcMap (requires ArcGIS 10.0 or newer, and Circuitscape must be installed).
 * [**Gnarly Landscape Utilities**](https://circuitscapebinaries.blob.core.windows.net/binaries/Gnarly_Landscape_Utilities_0_1_9.zip). An ArcGIS toolbox that creates resistance and core areas needed by Circuitscape.
