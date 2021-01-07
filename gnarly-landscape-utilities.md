@@ -1,8 +1,8 @@
 +++
-Gnarly Landscape Utilities
+title = "Gnarly Landscape Utilities"
 +++
 
-Gnarly Landscape Utilities is an ArcGIS toolbox designed to support some of the less-glamorous tasks involved with connectivity modeling. It includes tools for **creating resistance and habitat layers** and **core area mapping.** The core area mapping functionality was formerly packaged as the HCA Toolkit.
+Gnarly Landscape Utilities is an ArcGIS toolbox designed to support some of the less-glamorous tasks involved with connectivity modeling. It includes tools for **creating resistance and habitat layers** and **core area mapping**. The core area mapping functionality was formerly packaged as the HCA Toolkit.
 
 We created the tools to support connectivity analyses by the [Washington Wildlife Habitat Connectivity Working Group](https://waconnected.org/habitat-connectivity-analyses/) as well as work by the Western Governors' Association and the [Nature Conservancy](http://www.nature.org/). They can be used to create resistance, habitat, and core area maps used by Linkage Mapper, Circuitscape, and other connectivity software packages.
 
