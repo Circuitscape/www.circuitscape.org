@@ -12,7 +12,7 @@ The links below give more background on Circuitscape and how it is used:
 
 * [Applications](/applications/)
 * [Circuitscape user guide](/docs/)
-* [Publications](/pubs)
+* [Publications](/publications)
 * [About the authors](/authors)
 
 More info about how Circuitscape is used and our plans for future development can be found in [**this white paper**](/pubs/circuitscape_whitepaper.pdf).
