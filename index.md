@@ -7,7 +7,7 @@ title = "Circuitscape"
 <p><img style="float: right; height: 267px; padding: 2px;" src="/assets/img/sa_sb2.jpg" /></p>
 ~~~
 
-This site is home to [Circuitscape](/), [Omniscape](https://docs.circuitscape.org/Omniscape.jl/latest/), [Linkage Mapper](http://www.circuitscape.org/linkagemapper), and [Gnarly Landscape Utilities](http://www.circuitscape.org/gnarly-landscape-utilities). All are free and open source. Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes. Omniscape offers a “coreless” approach by applying Circuitscape iteratively in a moving window to predict omni-directional connectivity. Linkage Mapper uses least-cost corridor analysis, circuit theory, and barrier analysis to map corridors, detect pinch-points and restoration opportunities within them, and identify important core areas and corridors. Gnarly Landscape Utilities automates the creation of core area maps and resistance layers needed for connectivity modeling.
+This site is home to [Circuitscape](/), [Omniscape](https://docs.circuitscape.org/Omniscape.jl/latest/), [Linkage Mapper](https://www.circuitscape.org/linkagemapper), and [Gnarly Landscape Utilities](https://www.circuitscape.org/gnarly-landscape-utilities). All are free and open source. Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes. Omniscape offers a “coreless” approach by applying Circuitscape iteratively in a moving window to predict omni-directional connectivity. Linkage Mapper uses least-cost corridor analysis, circuit theory, and barrier analysis to map corridors, detect pinch-points and restoration opportunities within them, and identify important core areas and corridors. Gnarly Landscape Utilities automates the creation of core area maps and resistance layers needed for connectivity modeling.
 
 See the tabs above for more info, downloads, and other connectivity modeling tools and resources.
 
@@ -21,7 +21,7 @@ See the tabs above for more info, downloads, and other connectivity modeling too
 
 **March 2014**- Need to create resistance or core area layers? Check out the new **Gnarly Landscape Utilities.**
 
-**Oct 2013**- Circuitscape can now be called from an **ArcGIS toolbox**. No more converting input grids to ASCII format! Just install the ArcGIS toolbox from our [downloads page](http://www.circuitscape.org/downloads) when you install Circuitscape.
+**Oct 2013**- Circuitscape can now be called from an **ArcGIS toolbox**. No more converting input grids to ASCII format! Just install the ArcGIS toolbox from our [downloads page](https://www.circuitscape.org/downloads) when you install Circuitscape.
 
 
 ## More News
