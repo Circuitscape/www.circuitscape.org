@@ -93,7 +93,7 @@ McRae BH, Dickson BG, Keitt TH, Shah VB. 2008. [Using circuit theory to model co
 
 McRae BH, Hall SA, Beier P, Theobald DM. 2012. [Where to restore ecological connectivity? Detecting barriers and quantifying restoration benefits.](http://dx.doi.org/10.1371/journal.pone.0052604) PloS one 7:e52604. journals.plos.org.
 
-McRae BH, Kavanagh DM. 2011. Linkage Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from [http://www.circuitscape.org/linkagemapper.](http://www.circuitscape.org/linkagemapper.)
+McRae BH, Kavanagh DM. 2011. Linkage Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from [linkagemapper](/linkagemapper/).
 
 McRae B, Shah V. 2009. Circuitscape User Guide. University of California, Santa Barbara. Available from: [http://www.circuitscape.org](http://www.circuitscape.org)
 

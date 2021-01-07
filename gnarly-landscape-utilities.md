@@ -16,11 +16,11 @@ Version 0.1.9, released Aug 2, 2016.
 
 **Citation for Core Mapper:**
 
-Shirk, A.J., and B.H. McRae. 2013. Gnarly Landscape Utilities: Core Mapper User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://www.circuitscape.org/gnarly-landscape-utilities.
+Shirk, A.J., and B.H. McRae. 2013. Gnarly Landscape Utilities: Core Mapper User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://circuitscape.org/gnarly-landscape-utilities/.
 
 **Citation for Resistance and Habitat Calculator:**
 
-McRae, B.H., A.J. Shirk, and J.T.  Platt. 2013. Gnarly Landscape Utilities: Resistance and Habitat Calculator User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://www.circuitscape.org/gnarly-landscape-utilities.
+McRae, B.H., A.J. Shirk, and J.T.  Platt. 2013. Gnarly Landscape Utilities: Resistance and Habitat Calculator User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://.org/gnarly-landscape-utilities/.
 
 **Authors**
 
