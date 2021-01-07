@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+  {{isdef title}} <title>{{fill title}}</title>  {{end}}
+
+  <meta property="og:title" content="Circuitscape" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="{{description}}" />
+  <meta property="og:site_name" content="Circuitscape" />
+  <meta property="og:image" content="https://circuitscape.org/assets/img/logo.png" />
+
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/main.css">
+
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+</head>
+<body>
+  {{insert header.html}}
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+
+      {{ispage index.html}}
+      <div class="home">
+      {{end}}
+
+      {{isnotpage index.html}}
+      <article class="post">
+        <header class="post-header">
+          <h1 class="post-title">{{title}}</h1>
+        </header>
+        <div class="post-content">
+      {{end}}
+
+<!-- Content appended here -->
