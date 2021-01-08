@@ -11,29 +11,6 @@ This site is home to [Circuitscape](/), [Omniscape](https://docs.circuitscape.or
 
 See the tabs above for more info, downloads, and other connectivity modeling tools and resources.
 
-**January 2019** - Circuitscape v5 (beta) binaries are now [available](/downloads/).
-
-**November 2018** - Circuitscape v5 is now available.  The new Circuitscape is a complete overhaul with speed improvements. You can use the command line version by following the instructions on the [**GitHub project page**](https://github.com/Circuitscape/Circuitscape.jl). Download links coming soon.
-
-**July 2016**- The Circuitscape user community keeps growing.  We’ve compiled some **example applications** including new fields like crop science, archaeology, fire risk management, and epidemiology.
-
-**March 2014**- Circuitscape 4.0 is now up. After a complete overhaul, **Version 4.0** sports major speed and functionality improvements.
-
-**March 2014**- Need to create resistance or core area layers? Check out the new **Gnarly Landscape Utilities.**
-
-**Oct 2013**- Circuitscape can now be called from an **ArcGIS toolbox**. No more converting input grids to ASCII format! Just install the ArcGIS toolbox from our [downloads page](/downloads/) when you install Circuitscape.
-
-
-## More News
-
-[**“One glorious map”**](http://www.climatecentral.org/news/map-animal-migration-climate-change-20646) using Circuitscape to model species responses to climate change almost breaks the internet. More [here](http://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/) and [here](http://www.smithsonianmag.com/smart-news/mesmerizing-animation-shows-where-animals-going-survive-climate-change-180960253/).
-
-* [Circuitscape wins Wildlife Society award](http://tlocoh.r-forge.r-project.org/tws-setwg_newsletter_s14.pdf)
-* [Circuitscape on the cover of Methods in Ecology &amp; Evolution](http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-5-7-coverlarge.jpg)
-* [Predicting climate-driven movement for 3000 species](http://www.conservationcorridor.org/2013/07/predicting-how-climate-change-will-shift-animal-movement-routes/)
-* [Using Circuitscape to predict HIV spread in Africa](http://www.academia.edu/4707367/Spatial_accessibility_and_the_spread_of_HIV-1_subtypes_and_recombinants)
-
-
 ## Authors
 
 **Circuitscape was written by Brad McRae, Viral Shah, Tanmay Mohapatra, and Ranjan Anantharaman.**  More details about the authors [**here**](/authors/).
