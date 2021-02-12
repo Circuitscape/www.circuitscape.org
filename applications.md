@@ -2,7 +2,7 @@
 title = "Applications"
 +++
 
-A comprehensive list of applications using Circuitscape has been compiled in [this document](biblio2021.docx).
+A comprehensive list of applications using Circuitscape has been compiled in [this document](/pubs/biblio2021.docx).
 
 Circuitscape has rapidly become the most widely used connectivity analysis package in the world. It is used by numerous state, federal, and local agencies in the USA, and by government ministries and NGOs for conservation planning on six continents. It routinely appears in journals like *PNAS, Nature Genetics, Ecology, Ecological Applications, Ecology Letters, Landscape Ecology, Evolution, Heredity, Bioscience, Molecular Ecology, Conservation Biology,* and many others*.* In 2015 alone, Circuitscape appeared in 80 peer-reviewed journal articles—a 40% increase from 2014—plus dozens of dissertations, reports, and book chapters.
 
