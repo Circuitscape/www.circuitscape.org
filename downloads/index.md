@@ -32,6 +32,6 @@ The [Circuitscape.py](https://github.com/Circuitscape/Circuitscape.py/) project 
 
 * Python source code as a [Python package](https://pypi.python.org/pypi/Circuitscape/).
 
-## **Omniscape**!
+## **Omniscape**
 * [**Omniscape.jl installation**](https://github.com/Circuitscape/Omniscape.jl#installation)
 
