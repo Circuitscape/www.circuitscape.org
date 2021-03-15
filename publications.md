@@ -4,6 +4,8 @@ title = "Publications"
 
 ## Publications about Circuitscape
 
+* Hall K.R., R. Anantharaman, V.A. Landau, M. Clark, B.G. Dickson, A. Jones, J. Platt, A. Edelman, V.B. Shah. 2021. Circuitscape in Julia: Empowering Dynamic Approaches to Connectivity Assessment. *Land* 10(3):301. https://doi.org/10.3390/land10030301. 
+  Click [here](https://circuitscape.org/pubs/biblio2021.docx) to access the supplemental material.
 * Brett G. Dickson, Christine M. Albano, Ranjan Anantharaman, Paul Beier, Joe Fargione, Tabitha A. Graves, Miranda E. Gray, Kimberly R. Hall, Josh J. Lawler, Paul B. Leonard, Caitlin E. Littlefield, Meredith L. McClure, John Novembre, Carrie A. Schloss, Nathan H. Schumaker, Viral B. Shah, and David M. Theobald. [Circuit‐theory applications to connectivity science and conservation. Conservation Biology (2018).](/pubs/Dickson_et_al_ConsBio.pdf), [Supplementary Material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcobi.13230&amp;file=cobi13230-sup-0001-SuppMat.docx). For a database of papers cited in this review along with a brief description of each of them, [click here](/pubs/CSreview.xlsx)
 * McRae, B.H., V.B. Shah, and A. Edelman. 2016. [Circuitscape: Modeling Landscape Connectivity to Promote Conservation and Human Health. The Nature Conservancy, Fort Collins, CO. 14 pp.](/pubs/circuitscape_whitepaper.pdf)
 * McRae, B.H., B.G. Dickson, T.H. Keitt, and V.B. Shah. 2008. [Using circuit theory to model connectivity in ecology and conservation. _Ecology_ 10: 2712-2724.](/pubs/McRae_et_al_2008_Ecology.pdf)
