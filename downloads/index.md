@@ -5,7 +5,7 @@ title = "Downloads"
 [Circuitscape 5](https://github.com/Circuitscape/Circuitscape.jl) is developed in [Julia](https://julialang.org) and is available on GitHub. It is made available under the [open source MIT license](https://github.com/Circuitscape/Circuitscape.jl/blob/master/LICENSE.md).
 Please follow these instructions on downloading Julia and Circuitscape:
 
-* [**Circuitscaspe.jl installation**](https://github.com/Circuitscape/Circuitscape.jl/blob/master/README.md#Installation)
+* [**Circuitscape.jl installation**](https://github.com/Circuitscape/Circuitscape.jl/blob/master/README.md#Installation)
 * The old Circuitscape 4 GUI generated INI files are fully compatible with Circuitscape 5
 
 ## **Help us improve Circuitscape**!
@@ -31,3 +31,9 @@ The [Circuitscape.py](https://github.com/Circuitscape/Circuitscape.py/) project 
 ### Linux:
 
 * Python source code as a [Python package](https://pypi.python.org/pypi/Circuitscape/).
+
+Legacy documentation for Circuitscape 4.0 may found [here](/downloads/circuitscape_4_0.pdf)
+
+## **Omniscape**
+* [**Omniscape.jl installation**](https://github.com/Circuitscape/Omniscape.jl#installation)
+
