@@ -6,7 +6,7 @@ title = "Downloads"
 Please follow these instructions on downloading Julia and Circuitscape:
 
 * [**Circuitscape.jl installation**](https://github.com/Circuitscape/Circuitscape.jl/blob/master/README.md#Installation)
-* The old Circuitscape 4 GUI generated INI files are fully compatible with Circuitscape 5
+* The old Circuitscape 4 GUI generated INI files are fully compatible with Circuitscape 5.
 
 ## **Help us improve Circuitscape**!
 
@@ -22,7 +22,7 @@ The [Circuitscape.py](https://github.com/Circuitscape/Circuitscape.py/) project 
 * [**32-bit Windows executable**](/downloads/Circuitscape-4.0.3-Win32-setup.exe). (v4.0.3- update coming soon). For older PCs running 32-bit Windows.
 * [**Circuitscape ArcGIS toolbox**](/downloads/Circuitscape_for_ArcGIS_2013_10_08_rev2.zip). Calls Circuitscape from ArcMap (requires ArcGIS 10.0 or newer, and Circuitscape must be installed).
 * [**Gnarly Landscape Utilities**](/downloads/Gnarly_Landscape_Utilities_0_1_9.zip). An ArcGIS toolbox that creates resistance and core areas needed by Circuitscape.
-* [**Linkage Mapper**](https://circuitscape.org/linkagemapper/). An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses.
+* [**Linkage Mapper**](https://linkagemapper.org/). An ArcGIS toolbox that uses least-cost corridor methods and Circuitscape to support regional connectivity analyses.
 
 ### MAC OS X:
 
