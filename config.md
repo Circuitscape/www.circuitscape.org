@@ -10,6 +10,7 @@ description = """
     """
 
 docs_link = "https://docs.circuitscape.org/Circuitscape.jl/latest/"
+lm_link = "https://linkagemapper.org/"
 
 generate_rss = false
 
