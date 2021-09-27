@@ -1,5 +1,5 @@
 +++
-title = "Linkage Mapper"
+title = "linkagemapper"
 +++
 
 ~~~
