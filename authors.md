@@ -11,11 +11,11 @@ Circuitscape was written by
 * [Ranjan Anantharaman](https://ranjanan.github.io).
 
 ~~~
-<img src="/assets/img/ranjan.jpg" style="height:250px; width:200px;" />
+<img src="/assets/img/ranjan.jpg" style="height:250px; width:200px;" alt="Ranjan Anantharaman" />
 ~~~
 
 * [Tanmay Mohapatra](https://github.com/tanmaykm)
 
 ~~~
-<img src="/assets/img/tanmaynew.jpeg" style="height:200px; width:200px" />
+<img src="/assets/img/tanmaynew.jpeg" style="height:200px; width:200px" alt="Tanmay Mohapatra" />
 ~~~

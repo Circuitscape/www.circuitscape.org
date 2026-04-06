@@ -2,15 +2,15 @@
 title = "Applications"
 +++
 
-A comprehensive list of applications using Circuitscape has been compiled in [this document](/pubs/biblio2021.docx).
+A comprehensive list of applications using Circuitscape can be found via [Google Scholar](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en).
 
-Circuitscape has rapidly become the most widely used connectivity analysis package in the world. It is used by numerous state, federal, and local agencies in the USA, and by government ministries and NGOs for conservation planning on six continents. It routinely appears in journals like *PNAS, Nature Genetics, Ecology, Ecological Applications, Ecology Letters, Landscape Ecology, Evolution, Heredity, Bioscience, Molecular Ecology, Conservation Biology,* and many others*.* In 2015 alone, Circuitscape appeared in 80 peer-reviewed journal articles—a 40% increase from 2014—plus dozens of dissertations, reports, and book chapters.
+Circuitscape has become the most widely used connectivity analysis package in the world. It is used by numerous state, federal, and local agencies in the USA, and by government ministries and NGOs for conservation planning on six continents. It routinely appears in journals like *PNAS, Nature Genetics, Ecology, Ecological Applications, Ecology Letters, Landscape Ecology, Evolution, Heredity, Bioscience, Molecular Ecology, Conservation Biology,* and many others. By 2015, Circuitscape was appearing in over 80 peer-reviewed journal articles per year, and usage has continued to grow since the release of Circuitscape 5 in Julia. See [Google Scholar](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en) for a current list of papers citing Circuitscape.
 
 ### A Sampling of Circuitscape Applications from Around the World
 
 #### Wildlife corridor design
 
-Within the Nature Conservancy, connectivity analyses using Circuitscape are being used in planning exercises affecting tens of millions of dollars for land acquisition, restoration, and management. Other NGOs, whether small ones like the Snow Leopard Conservancy or large ones like the Wildlife Conservation Society, are using Circuitscape to set conservation priorities. Here are some recent examples of research in this area.
+Within the Nature Conservancy, connectivity analyses using Circuitscape are being used in planning exercises affecting tens of millions of dollars for land acquisition, restoration, and management. Other NGOs, whether small ones like the Snow Leopard Conservancy or large ones like the Wildlife Conservation Society, are using Circuitscape to set conservation priorities. Here are some examples of research in this area.
 
 Multispecies connectivity planning in Borneo (Brodie et al. 2015).Connectivity for pumas in Arizona and New Mexico (Dickson et al. 2013).Large landscape planning across Ontario, Canada (Bowman and Cordes 2015).Connectivity prioritization for gibbons (Vasudev and Fletcher 2015).Corridors for tigers in India (Joshi et al. 2013, Dutta et al. 2015).Connectivity for Amur leopards in China (Jiang et al. 2015).Trans-boundary conservation of Persian leopards in Iran, Turkey, Armenia, and Azerbaijan (Farhadiniaa et al. 2015).Multi-scale connectivity planning in Australia (Lechner et al. 2015).Wall-to-wall’ methods that don’t require core areas to connect (Anderson et al. 2012, 2014, Pelletier et al. 2014).
 
@@ -74,13 +74,13 @@ Circuitscape is breaking into new areas like epidemiology, invasive species spre
 - strategic fuel breaks to protect sage-grouse habitat from wildfire (Welch et al. 2015).
 
 ~~~
-<center><img src="/assets/img/graydickson.gif" style="padding:5px"></center>
+<div style="text-align:center"><img src="/assets/img/graydickson.gif" style="padding:5px" alt="Fire likelihood across Arizona's lower Sonoran Desert modeled using Circuitscape" /></div>
 ~~~
 
 *Fire likelihood across Arizona’s lower Sonoran Desert, using Circuitscape to model fuel connectivity. Areas with high predicted fire risk corresponded with burned area data showing where wildfires occurred from 2000 to 2012 (Gray and Dickson 2015). This method has been extended to evaluate fuel treatments where invasive cheatgrass is increasing fire (Gray and Dickson 2016).*
 
 ~~~
-<center><img src="/assets/img/fire3.png" style="padding:5px"></center>
+<div style="text-align:center"><img src="/assets/img/fire3.png" style="padding:5px" alt="Strategic fuel breaks to protect sage-grouse habitat" /></div>
 ~~~
 
 *Welch et al. (2015) used a similar analysis to identify strategic areas for fuel breaks to protect greater sage-grouse habitat.*
