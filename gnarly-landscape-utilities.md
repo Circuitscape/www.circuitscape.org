@@ -4,11 +4,11 @@ title = "Gnarly Landscape Utilities"
 
 Gnarly Landscape Utilities is an ArcGIS toolbox designed to support some of the less-glamorous tasks involved with connectivity modeling. It includes tools for **creating resistance and habitat layers** and **core area mapping**. The core area mapping functionality was formerly packaged as the HCA Toolkit.
 
-We created the tools to support connectivity analyses by the [Washington Wildlife Habitat Connectivity Working Group](https://waconnected.org/habitat-connectivity-analyses/) as well as work by the Western Governors' Association and the [Nature Conservancy](http://www.nature.org/). They can be used to create resistance, habitat, and core area maps used by Linkage Mapper, Circuitscape, and other connectivity software packages.
+We created the tools to support connectivity analyses by the [Washington Wildlife Habitat Connectivity Working Group](https://waconnected.org/habitat-connectivity-analyses/) as well as work by the Western Governors' Association and the [Nature Conservancy](https://www.nature.org/). They can be used to create resistance, habitat, and core area maps used by Linkage Mapper, Circuitscape, and other connectivity software packages.
+
+**Note:** Gnarly Landscape Utilities is no longer actively maintained. The last release was version 0.1.9 (Aug 2, 2016). The download and source code remain available for reference.
 
 [**Download Gnarly Landscape Utilities** here.](/downloads/)
-
-Version 0.1.9, released Aug 2, 2016.
 
 *You can also see our project on [Github](https://github.com/thenatureconservancy/gnarly-landscape-utilities).*
 
@@ -20,7 +20,7 @@ Shirk, A.J., and B.H. McRae. 2013. Gnarly Landscape Utilities: Core Mapper User 
 
 **Citation for Resistance and Habitat Calculator:**
 
-McRae, B.H., A.J. Shirk, and J.T.  Platt. 2013. Gnarly Landscape Utilities: Resistance and Habitat Calculator User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://.org/gnarly-landscape-utilities/.
+McRae, B.H., A.J. Shirk, and J.T.  Platt. 2013. Gnarly Landscape Utilities: Resistance and Habitat Calculator User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://circuitscape.org/gnarly-landscape-utilities/.
 
 **Authors**
 
@@ -32,4 +32,4 @@ Jim Platt, The Nature Conservancy
 
 **Acknowledgements**
 
-These tools were developed for projects supported by the [Great Northern Landscape Conservation Cooperative](https://www.nrmsc.usgs.gov/gnlcc), the [North Pacific Landscape Conservation Cooperative](http://www.fws.gov/pacific/Climatechange/nplcc/), and the [Doris Duke Charitable Foundation](http://www.ddcf.org/Programs/Environment/).
+These tools were developed for projects supported by the Great Northern Landscape Conservation Cooperative, the North Pacific Landscape Conservation Cooperative, and the [Doris Duke Charitable Foundation](https://www.dorisduke.org/).
