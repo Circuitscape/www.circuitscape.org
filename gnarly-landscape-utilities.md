@@ -22,7 +22,7 @@ Citation for Resistance and Habitat Calculator:
 
 McRae, B.H., A.J. Shirk, and J.T.  Platt. 2013. Gnarly Landscape Utilities: Resistance and Habitat Calculator User Guide. The Nature Conservancy, Fort Collins, CO. Available at: https://circuitscape.org/gnarly-landscape-utilities/.
 
-### Authors
+## Authors
 
 Andrew Shirk, Climate Impacts Group, University of Washington
 
@@ -30,6 +30,6 @@ Brad McRae, The Nature Conservancy
 
 Jim Platt, The Nature Conservancy
 
-### Acknowledgements
+## Acknowledgements
 
 These tools were developed for projects supported by the Great Northern Landscape Conservation Cooperative, the North Pacific Landscape Conservation Cooperative, and the [Doris Duke Charitable Foundation](https://www.dorisduke.org/).
