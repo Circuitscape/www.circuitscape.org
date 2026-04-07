@@ -1,5 +1,7 @@
 # Circuitscape Website
 
+[![Build and Deploy](https://github.com/Circuitscape/www.circuitscape.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/Circuitscape/www.circuitscape.org/actions/workflows/deploy.yml)
+
 Source for [circuitscape.org](https://circuitscape.org), built with [Franklin.jl](https://github.com/JuliaDocs/Franklin.jl).
 
 ## Local development
