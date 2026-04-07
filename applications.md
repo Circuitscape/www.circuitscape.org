@@ -2,23 +2,23 @@
 title = "Applications"
 +++
 
-A comprehensive list of applications using Circuitscape can be found via [Google Scholar](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en).
+Circuitscape is an award-winning connectivity analysis software package which borrows algorithms from electronic circuit theory to predict patterns of movement, gene flow, and genetic differentiation among plant and animal populations in heterogeneous landscapes. Circuit theory complements least-cost path approaches because it considers effects of all possible pathways across a landscape simultaneously.
 
-Circuitscape has become the most widely used connectivity analysis package in the world. It is used by numerous state, federal, and local agencies in the USA, and by government ministries and NGOs for conservation planning on six continents. It routinely appears in journals like *PNAS, Nature Genetics, Ecology, Ecological Applications, Ecology Letters, Landscape Ecology, Evolution, Heredity, Bioscience, Molecular Ecology, Conservation Biology,* and many others. By 2015, Circuitscape was appearing in over 80 peer-reviewed journal articles per year, and usage has continued to grow since the release of Circuitscape 5 in Julia. See [Google Scholar](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en) for a current list of papers citing Circuitscape.
+## A Sampling of Applications from Around the World
 
-### A Sampling of Circuitscape Applications from Around the World
+**Topics:** [Wildlife corridor design](#wildlife_corridor_design) | [Landscape genetics](#landscape_genetics) | [Movement ecology](#movement_ecology) | [Connectivity for climate change](#connectivity_for_climate_change) | [Infectious disease, fire, and agriculture](#new_applications_infectious_disease_fire_and_agriculture) | [Complementary models](#how_circuitscape_complements_other_models) | [Hybrid approaches](#hybrid_approaches) | [References](#references)
 
-#### Wildlife corridor design
+### Wildlife corridor design
 
 Within the Nature Conservancy, connectivity analyses using Circuitscape are being used in planning exercises affecting tens of millions of dollars for land acquisition, restoration, and management. Other NGOs, whether small ones like the Snow Leopard Conservancy or large ones like the Wildlife Conservation Society, are using Circuitscape to set conservation priorities. Here are some examples of research in this area.
 
-Multispecies connectivity planning in Borneo (Brodie et al. 2015).Connectivity for pumas in Arizona and New Mexico (Dickson et al. 2013).Large landscape planning across Ontario, Canada (Bowman and Cordes 2015).Connectivity prioritization for gibbons (Vasudev and Fletcher 2015).Corridors for tigers in India (Joshi et al. 2013, Dutta et al. 2015).Connectivity for Amur leopards in China (Jiang et al. 2015).Trans-boundary conservation of Persian leopards in Iran, Turkey, Armenia, and Azerbaijan (Farhadiniaa et al. 2015).Multi-scale connectivity planning in Australia (Lechner et al. 2015).Wall-to-wall’ methods that don’t require core areas to connect (Anderson et al. 2012, 2014, Pelletier et al. 2014).
+Multispecies connectivity planning in Borneo (Brodie et al. 2015).Connectivity for pumas in Arizona and New Mexico (Dickson et al. 2013).Large landscape planning across Ontario, Canada (Bowman and Cordes 2015).Connectivity prioritization for gibbons (Vasudev and Fletcher 2015).Corridors for tigers in India (Joshi et al. 2013, Dutta et al. 2015).Connectivity for Amur leopards in China (Jiang et al. 2015).Trans-boundary conservation of Persian leopards in Iran, Turkey, Armenia, and Azerbaijan (Farhadiniaa et al. 2015).Multi-scale connectivity planning in Australia (Lechner et al. 2015).Wall-to-wall' methods that don't require core areas to connect (Anderson et al. 2012, 2014, Pelletier et al. 2014).
 
-![](/assets/img/Dutta.png)
+![Circuitscape pinch-point analysis for tiger corridors in central India by Dutta et al. 2015](/assets/img/Dutta.png)
 
 *Dutta et al. (2015) combined Circuitscape with least-cost corridor methods to map pinch points within corridors connecting protected areas for tigers in central India. Areas with high current flow are most important for tiger movements and keeping the network connected.*
 
-#### Landscape genetics
+### Landscape genetics
 
 Landscape genetics is the study of how landscape pattern (the distribution of suitable habitat, barriers, etc.) affects gene flow and genetic differentiation among plant and animal populations. Circuitscape is widely used in this field, and has been combined with genetic data to show
 
@@ -32,7 +32,7 @@ Landscape genetics is the study of how landscape pattern (the distribution of su
 - how landscape features influence genetic connectivity for dozens of species, from songbirds in British Columbia (Adams et al. 2016) to army ants in Panama (Pérez-Espona et al. 2012).
 
 
-#### Movement ecology
+### Movement ecology
 
 Circuit theory can also be used to predict movements of animals and how these affect overall population connectivity. As with landscape genetics, this application is tightly tied to conservation planning. Examples include
 
@@ -43,24 +43,24 @@ Circuit theory can also be used to predict movements of animals and how these af
 - movement and gap crossing behavior of forest interior songbirds (St. Louis et al. 2014); and
 - how local abundance and dispersal scale up to affect metapopulation persistence and community stability (Brodie et al. 2016).
 
-![](/assets/img/roadcrossings2.png)
+![Circuit theory predicting wildlife road crossings and vehicle collisions](/assets/img/roadcrossings2.png)
 
-*Circuit theory is being used to mitigate road impacts on wildlife and improve driver safety in at least six countries. (a) Circuit theory (implemented using Graphab) outperformed other connectivity models for predicting vehicle collisions with roe deer in France (**Girardet et al. 2015**). (b) A wall-to-wall connectivity map created using Circuitscape was highly correlated with road mortality for amphibians and reptiles and habitat use by fishers in eastern Ontario, Canada (from Koen et al. 2014). Similar methods are now being used across Ontario and in many other parts of Canada.*
+*Circuit theory is being used to mitigate road impacts on wildlife and improve driver safety in at least six countries. (a) Circuit theory (implemented using Graphab) outperformed other connectivity models for predicting vehicle collisions with roe deer in France (Girardet et al. 2015). (b) A wall-to-wall connectivity map created using Circuitscape was highly correlated with road mortality for amphibians and reptiles and habitat use by fishers in eastern Ontario, Canada (from Koen et al. 2014). Similar methods are now being used across Ontario and in many other parts of Canada.*
 
-#### Connectivity for climate change
+### Connectivity for climate change
 
-Predicting important areas for range shifts under climate change is an exciting new application of Circuitscape. One of the most important ways species have responded to past climatic changes has been to shift their ranges to track suitable climates. Rapid warming projected for the next century means many species and populations will need to move even faster than in the past or face extinction. Many species are already moving in response to rapid warming, but they are encountering barriers—like roads, agricultural areas, and cities—that weren’t present in the past. In order for species to maintain population connectivity and the ability to adapt to climate change, we need to identify and conserve important movement routes.  Here are some ways Circuitscape can be used to address this need:
+Predicting important areas for range shifts under climate change is an exciting new application of Circuitscape. One of the most important ways species have responded to past climatic changes has been to shift their ranges to track suitable climates. Rapid warming projected for the next century means many species and populations will need to move even faster than in the past or face extinction. Many species are already moving in response to rapid warming, but they are encountering barriers—like roads, agricultural areas, and cities—that weren't present in the past. In order for species to maintain population connectivity and the ability to adapt to climate change, we need to identify and conserve important movement routes.  Here are some ways Circuitscape can be used to address this need:
 
 - Hodgson et al. (2012) showed how circuit theory can be used to design landscapes that promote rapid range shifts.
 - Lawler et al. (2013) used Circuitscape to project movements of nearly 3000 species in response to climate change across the Western Hemisphere. [See an animation of their results here](https://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00).
 - Razgour (2015) combined species distributions, climate projections, genetic data, and Circuitscape to predict range shift pathways for bats in Iberia.
-- New methods connecting natural lands to those that have similar projected future climates (Littlefield et al. in review) and connecting across climate gradients (McRae et al. in 2016) are in active development.
+- New methods connecting natural lands to those that have similar projected future climates (Littlefield et al. 2017) and connecting across climate gradients (McRae et al. 2016) have further expanded these approaches.
 
-![](/assets/img/sa.gif)
+![Projected climate-driven range shifts of 2903 species modeled with Circuitscape](/assets/img/sa.gif)
 
 *Projected climate-driven range shifts of 2903 species in response to climate change using Circuitscape. Arrows represent the direction of modelled movements from unsuitable climates to suitable climates via routes that avoid human land uses. From Lawler et al. (2013). Explore the full animation of these results* [*here*](https://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00)*.*
 
-#### New applications: infectious disease, fire, and agriculture
+### New applications: infectious disease, fire, and agriculture
 
 Circuitscape is breaking into new areas like epidemiology, invasive species spread, archaeology, and fire management. Examples include
 
@@ -77,7 +77,7 @@ Circuitscape is breaking into new areas like epidemiology, invasive species spre
 <div style="text-align:center"><img src="/assets/img/graydickson.gif" style="padding:5px" alt="Fire likelihood across Arizona's lower Sonoran Desert modeled using Circuitscape" /></div>
 ~~~
 
-*Fire likelihood across Arizona’s lower Sonoran Desert, using Circuitscape to model fuel connectivity. Areas with high predicted fire risk corresponded with burned area data showing where wildfires occurred from 2000 to 2012 (Gray and Dickson 2015). This method has been extended to evaluate fuel treatments where invasive cheatgrass is increasing fire (Gray and Dickson 2016).*
+*Fire likelihood across Arizona's lower Sonoran Desert, using Circuitscape to model fuel connectivity. Areas with high predicted fire risk corresponded with burned area data showing where wildfires occurred from 2000 to 2012 (Gray and Dickson 2015). This method has been extended to evaluate fuel treatments where invasive cheatgrass is increasing fire (Gray and Dickson 2016).*
 
 ~~~
 <div style="text-align:center"><img src="/assets/img/fire3.png" style="padding:5px" alt="Strategic fuel breaks to protect sage-grouse habitat" /></div>
@@ -85,18 +85,18 @@ Circuitscape is breaking into new areas like epidemiology, invasive species spre
 
 *Welch et al. (2015) used a similar analysis to identify strategic areas for fuel breaks to protect greater sage-grouse habitat.*
 
-#### How Circuitscape Complements other Models
+### How Circuitscape Complements other Models
 
-Circuitscape isn’t the right modeling method for every connectivity application, but it is strongly complementary to others, and often works well in conjunction with other methods. For example, McClure et al. (2016) compared least-cost paths and Circuitscape for predicting elk and wolverine movements using GPS-collared animals. They found that Circuitscape outperformed least-cost paths for predicting wolverine dispersal, but slightly underperformed them for elk. This makes sense, because circuit models reflect random exploration of the landscape, and dispersing juvenile wolverines are making exploratory movements since they do not have perfect knowledge. Elk, on the other hand, are following routes established over generations, and have much better knowledge of the best pathways.
+Circuitscape isn't the right modeling method for every connectivity application, but it is strongly complementary to others, and often works well in conjunction with other methods. For example, McClure et al. (2016) compared least-cost paths and Circuitscape for predicting elk and wolverine movements using GPS-collared animals. They found that Circuitscape outperformed least-cost paths for predicting wolverine dispersal, but slightly underperformed them for elk. This makes sense, because circuit models reflect random exploration of the landscape, and dispersing juvenile wolverines are making exploratory movements since they do not have perfect knowledge. Elk, on the other hand, are following routes established over generations, and have much better knowledge of the best pathways.
 
 
-#### Hybrid approaches
+### Hybrid approaches
 
 New hybrid methods are taking advantage of both circuit and least-cost methods. In their tiger study, Dutta et al. (2015) combined least-cost corridors and Circuitscape to map the most important and vulnerable connectivity areas connecting tiger reserves. And in their work on invasive mosquitoes, Medley et al. (2014) found that circuit and least-cost-based analyses complemented each other, with differing strengths at different movement scales and in different contexts. Using the two models in concert gave the most insight into mosquito movement and spread. Other papers that combine methods, taking advantage of different strengths for different processes and scales, include Rayfield et al. (2015), Lechner et al. (2015), Fagan et al. (2016), and Ziółkowska et al. (2016).
 
+Whatever tool you use, connectivity modeling involves a great deal of research, data compilation, GIS analyses, and careful interpretation of results. Defining areas to connect, parameterizing resistance models, and other modeling decisions you will need to make are not trivial. Before diving in, we strongly recommend that users first acquaint themselves with the process and challenges of connectivity modeling by consulting published resources. Good places to start include the [Circuitscape user guide](https://docs.circuitscape.org/Circuitscape.jl/latest/) and the [publications](/publications/) page.
 
-
-**References**
+## References
 
 Adams R V, Burg TM. 2014. Influence of ecological and geological features on rangewide patterns of genetic structure in a widespread passerine. Heredity **114**:143–154.
 
@@ -110,7 +110,7 @@ Barton HD, Gregory AJ, Davis R, Hanlon CA, Wisely SM. 2010. Contrasting landscap
 
 Bell RC, Parra JL, Tonione M, Hoskin CJ, MacKenzie JB, Williams SE, Moritz C. 2010. Patterns of persistence and isolation indicate resilience to climate change in montane rainforest lizards. Molecular Ecology **19**:2531–2544.
 
-Bishop-Taylor R, Tulbure MG, Broich M. 2015. Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia’s largest river basin. Landscape Ecology **30**:2045–2065.
+Bishop-Taylor R, Tulbure MG, Broich M. 2015. Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia's largest river basin. Landscape Ecology **30**:2045–2065.
 
 Blair ME, Melnick DJ. 2012. Scale-dependent effects of a heterogeneous landscape on genetic differentiation in the Central American squirrel monkey (Saimiri oerstedii). PLoS ONE **7**.
 
@@ -162,7 +162,7 @@ McRae BH. 2006. Isolation by resistance. Evolution **60**:1551–1561.
 
 McRae BH, Dickson BG, Keitt TH, Shah VB. 2008. Using circuit theory to model connectivity in ecology, evolution, and conservation. Ecology **89**:2712–2724.
 
-McRae BH, Popper K, Jones A, Schindel M, Buttrick S, Hall K, Unnasch RS, Platt JT. 2016. Conserving Nature’s Stage: Mapping Omnidirectional Connectivity for Resilient Terrestrial Landscapes in the Pacific Northwest. The Nature Conservancy, Portland Oregon. 47 pp. Available online at: https://nature.org/resilienceNW.
+McRae BH, Popper K, Jones A, Schindel M, Buttrick S, Hall K, Unnasch RS, Platt JT. 2016. Conserving Nature's Stage: Mapping Omnidirectional Connectivity for Resilient Terrestrial Landscapes in the Pacific Northwest. The Nature Conservancy, Portland Oregon. 47 pp. Available online at: https://nature.org/resilienceNW.
 
 Medley KA, Jenkins DG, Hoffman EA. 2015. Human-aided and natural dispersal drive gene flow across the range of an invasive mosquito. Molecular Ecology **24**:284–295.
 
@@ -198,4 +198,4 @@ Welch N, Provencher L, Unnasch RS, Anderson T, McRae B. 2015. Designing regional
 
 Yumnam B, Jhala Y V., Qureshi Q, Maldonado JE, Gopal R, Saini S, Srinivas Y, Fleischer RC. 2014. Prioritizing tiger conservation through landscape genetics and habitat linkages. PLoS ONE **9**.
 
-Ziółkowska E, Perzanowski K, Bleyhl B, Ostapowicz K, Kuemmerle T. 2016. Understanding unexpected reintroduction outcomes: Why aren’t European bison colonizing suitable habitat in the Carpathians? Biological Conservation **195**:106–117.
+Ziółkowska E, Perzanowski K, Bleyhl B, Ostapowicz K, Kuemmerle T. 2016. Understanding unexpected reintroduction outcomes: Why aren't European bison colonizing suitable habitat in the Carpathians? Biological Conservation **195**:106–117.
