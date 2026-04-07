@@ -1,28 +1,56 @@
 name: Build and Deploy
+
 on:
   push:
     branches:
-      - main
       - master
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      with:
-        persist-credentials: false
+
     - name: Install Julia
       uses: julia-actions/setup-julia@v2
       with:
         version: '1'
+
+    - name: Cache Julia packages
+      uses: actions/cache@v4
+      with:
+        path: ~/.julia
+        key: julia-${{ hashFiles('Project.toml') }}
+        restore-keys: julia-
+
     - name: Build site
       run: julia -e '
             using Pkg; Pkg.activate("."); Pkg.instantiate();
             using Franklin;
             optimize(minify=false, prerender=false)'
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        branch: gh-pages
-        folder: __site
+        path: __site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
