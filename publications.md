@@ -1,25 +1,40 @@
 +++
-title = "Publications"
+title = "Publications and Impact"
 +++
 
 Circuitscape has become the most widely used connectivity analysis package in the world. It is used by numerous state, federal, and local agencies in the USA, and by government ministries and NGOs for conservation planning on six continents. It routinely appears in journals like *PNAS, Nature Genetics, Ecology, Ecological Applications, Ecology Letters, Landscape Ecology, Evolution, Heredity, Bioscience, Molecular Ecology, Conservation Biology,* and many others.
 
 Circuitscape has been cited in over 2,500 peer-reviewed publications. See [Google Scholar](https://scholar.google.com/scholar?cites=9518024834481013047&as_sdt=40000005&sciodt=0,22&hl=en) for a current list.
 
-* McRae, B.H., B.G. Dickson, T.H. Keitt, and V.B. Shah. 2008. [Using circuit theory to model connectivity in ecology and conservation. _Ecology_ 10: 2712-2724.](/pubs/McRae_et_al_2008_Ecology.pdf)
+* McRae, B.H., B.G. Dickson, T.H. Keitt, and V.B. Shah. 2008. [Using circuit theory to model connectivity in ecology and conservation.](https://doi.org/10.1890/07-1861.1) _Ecology_ 10: 2712-2724. ([pdf](/pubs/McRae_et_al_2008_Ecology.pdf))
 
 ## Methods
 
-* McRae, B.H. 2006. [Isolation by resistance. _Evolution_ 60:1551-1561.](/pubs/McRae_2006_IBR_Evolution.pdf)
-* McRae, B.H. and P. Beier. 2007. [Circuit theory predicts gene flow in plant and animal populations. _Proceedings of the National Academy of Sciences of the USA_ 104:19885-19890.](/pubs/McRae_Beier_2007_PNAS.pdf)
-* McRae, B.H., V.B. Shah, and A. Edelman. 2016. [Circuitscape: Modeling Landscape Connectivity to Promote Conservation and Human Health. The Nature Conservancy, Fort Collins, CO. 14 pp.](/pubs/circuitscape_whitepaper.pdf)
-* Brett G. Dickson, Christine M. Albano, Ranjan Anantharaman, Paul Beier, Joe Fargione, Tabitha A. Graves, Miranda E. Gray, Kimberly R. Hall, Josh J. Lawler, Paul B. Leonard, Caitlin E. Littlefield, Meredith L. McClure, John Novembre, Carrie A. Schloss, Nathan H. Schumaker, Viral B. Shah, and David M. Theobald. [Circuit‐theory applications to connectivity science and conservation. _Conservation Biology_ (2018).](/pubs/Dickson_et_al_ConsBio.pdf) [Supplementary Material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcobi.13230&file=cobi13230-sup-0001-SuppMat.docx). [Database of papers cited in this review](/pubs/CSreview.xlsx).
+* McRae, B.H. 2006. [Isolation by resistance.](https://doi.org/10.1111/j.0014-3820.2006.tb00500.x) _Evolution_ 60:1551-1561. ([pdf](/pubs/McRae_2006_IBR_Evolution.pdf))
+* McRae, B.H. and P. Beier. 2007. [Circuit theory predicts gene flow in plant and animal populations.](https://doi.org/10.1073/pnas.0706568104) _Proceedings of the National Academy of Sciences of the USA_ 104:19885-19890. ([pdf](/pubs/McRae_Beier_2007_PNAS.pdf))
+
+## Applications
+
+* McRae, B.H., V.B. Shah, and A. Edelman. 2016. [Circuitscape: Modeling Landscape Connectivity to Promote Conservation and Human Health.](/pubs/circuitscape_whitepaper.pdf) The Nature Conservancy, Fort Collins, CO. 14 pp.
+* Brett G. Dickson, Christine M. Albano, Ranjan Anantharaman, Paul Beier, Joe Fargione, Tabitha A. Graves, Miranda E. Gray, Kimberly R. Hall, Josh J. Lawler, Paul B. Leonard, Caitlin E. Littlefield, Meredith L. McClure, John Novembre, Carrie A. Schloss, Nathan H. Schumaker, Viral B. Shah, and David M. Theobald. [Circuit-theory applications to connectivity science and conservation.](https://doi.org/10.1111/cobi.13230) _Conservation Biology_ (2018). ([pdf](/pubs/Dickson_et_al_ConsBio.pdf)) [Supplementary Material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcobi.13230&file=cobi13230-sup-0001-SuppMat.docx). [Database of papers cited in this review](/pubs/CSreview.xlsx).
+
+~~~
+<div style="text-align:center"><img src="/assets/img/land-10-00301-g002-550.jpg" style="max-width:500px; width:100%; padding:10px 0;" alt="Distribution of 572 Circuitscape applications across topics in dynamic connectivity" /></div>
+~~~
+
+*Distribution of 572 Circuitscape applications across the Zeller et al. framing of topics in dynamic connectivity. Applications are grouped into three broad categories (inner circle), and then arranged in categories that range from finer scale (spatial or temporal) studies in darker shades, to applications at larger scales and/or longer focal time periods (lighter shades). From [Hall et al. (2021)](https://doi.org/10.3390/land10030301).*
 
 ## Software
 
-* Hall K.R., R. Anantharaman, V.A. Landau, M. Clark, B.G. Dickson, A. Jones, J. Platt, A. Edelman, V.B. Shah. 2021. [Circuitscape in Julia: Empowering Dynamic Approaches to Connectivity Assessment](https://doi.org/10.3390/land10030301). _Land_ 10(3):301. [Supplemental material](https://circuitscape.org/pubs/Bibliography%20of%20Circuitscape%20applications%20-%20supplement%20to%20Hall%20et%20al.%202021%20in%20Land%203-19-21.docx).
-* Shah, V.B. and B.H. McRae. 2008. [Circuitscape: a tool for landscape ecology. In: G. Varoquaux, T. Vaught, J. Millman (Eds.). Proceedings of the 7th Python in Science Conference (SciPy 2008), pp. 62-66.](/pubs/Shah_McRae_Circuitscape_Python_Scipy08.pdf)
-* Shah, V.B. 2007. [An Interactive System for Combinatorial Scientific Computing with an Emphasis on Programmer Productivity. PhD thesis, University of California, Santa Barbara.](/pubs/Shah_thesis_2007.pdf)
+* Hall K.R., R. Anantharaman, V.A. Landau, M. Clark, B.G. Dickson, A. Jones, J. Platt, A. Edelman, V.B. Shah. 2021. [Circuitscape in Julia: Empowering Dynamic Approaches to Connectivity Assessment.](https://doi.org/10.3390/land10030301) _Land_ 10(3):301. [Supplemental material](https://circuitscape.org/pubs/Bibliography%20of%20Circuitscape%20applications%20-%20supplement%20to%20Hall%20et%20al.%202021%20in%20Land%203-19-21.docx).
+* Shah, V.B. and B.H. McRae. 2008. [Circuitscape: a tool for landscape ecology.](https://doi.org/10.25080/PFVC8793) In: G. Varoquaux, T. Vaught, J. Millman (Eds.). Proceedings of the 7th Python in Science Conference (SciPy 2008), pp. 62-66. ([pdf](/pubs/Shah_McRae_Circuitscape_Python_Scipy08.pdf))
+* Shah, V.B. 2007. [An Interactive System for Combinatorial Scientific Computing with an Emphasis on Programmer Productivity.](/pubs/Shah_thesis_2007.pdf) PhD thesis, University of California, Santa Barbara.
+
+~~~
+<div style="text-align:center"><img src="/assets/img/land-10-00301-g001.png" style="max-width:700px; width:100%; padding:10px 0;" alt="Growth of Circuitscape applications by type and software version over time" /></div>
+~~~
+
+*Count of Circuitscape applications in peer-reviewed journal articles by year, categorized by (a) type of application and (b) version of the software. From [Hall et al. (2021)](https://doi.org/10.3390/land10030301).*
 
 ## Media
 
