@@ -1,5 +1,5 @@
 +++
-title = "Downloads"
+title = "Circuitscape 5"
 +++
 
 [Circuitscape 5](https://github.com/Circuitscape/Circuitscape.jl) is developed in [Julia](https://julialang.org) and runs on Windows, macOS, and Linux. It is available on GitHub under the [open source MIT license](https://github.com/Circuitscape/Circuitscape.jl/blob/master/LICENSE.md).
