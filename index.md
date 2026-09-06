@@ -16,6 +16,14 @@ Open-source tools for connectivity modeling using circuit theory. All free and o
 
 [Gnarly Landscape Utilities](/gnarly-landscape-utilities/) automates the creation of core area maps and resistance layers needed for connectivity modeling.
 
+Watch NASA's Ecological Forecasting video on applying circuit theory to animal movement with Circuitscape.
+
+~~~
+<div style="position: relative; width: 100%; max-width: 720px; aspect-ratio: 16 / 9; margin: 0 auto 1.5em;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/lJqbkITnR30" title="Ecological Forecasting Project: Applying Circuit Theory to Animal Movement" allow="clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+~~~
+
 ## Applications from Around the World
 
 Circuitscape is used across a wide range of fields including [wildlife corridor design](/applications/#wildlife_corridor_design), [landscape genetics](/applications/#landscape_genetics), [movement ecology](/applications/#movement_ecology), [connectivity for climate change](/applications/#connectivity_for_climate_change), [infectious disease, fire, and agriculture](/applications/#new_applications_infectious_disease_fire_and_agriculture), [complementary models](/applications/#how_circuitscape_complements_other_models), and [hybrid approaches](/applications/#hybrid_approaches). Explore all [applications of Circuitscape](/applications/).

@@ -29,6 +29,7 @@ Circuitscape has been cited in over 2,500 peer-reviewed publications. See [Googl
 * Hall K.R., R. Anantharaman, V.A. Landau, M. Clark, B.G. Dickson, A. Jones, J. Platt, A. Edelman, V.B. Shah. 2021. [Circuitscape in Julia: Empowering Dynamic Approaches to Connectivity Assessment.](https://doi.org/10.3390/land10030301) _Land_ 10(3):301. [Supplemental material](https://circuitscape.org/pubs/Bibliography%20of%20Circuitscape%20applications%20-%20supplement%20to%20Hall%20et%20al.%202021%20in%20Land%203-19-21.docx).
 * Shah, V.B. and B.H. McRae. 2008. [Circuitscape: a tool for landscape ecology.](https://doi.org/10.25080/PFVC8793) In: G. Varoquaux, T. Vaught, J. Millman (Eds.). Proceedings of the 7th Python in Science Conference (SciPy 2008), pp. 62-66. ([pdf](/pubs/Shah_McRae_Circuitscape_Python_Scipy08.pdf))
 * Shah, V.B. 2007. [An Interactive System for Combinatorial Scientific Computing with an Emphasis on Programmer Productivity.](/pubs/Shah_thesis_2007.pdf) PhD thesis, University of California, Santa Barbara.
+* Anantharaman, R. 2018. [The New Circuitscape in Julia: Modern, Fast and Scalable.](https://www.youtube.com/watch?v=G1HJnaRxMLQ) Talk at JuliaCon 2018 (video).
 
 ~~~
 <div style="text-align:center"><img src="/assets/img/land-10-00301-g001.png" style="max-width:700px; width:100%; padding:10px 0;" alt="Growth of Circuitscape applications by type and software version over time" /></div>
@@ -38,7 +39,14 @@ Circuitscape has been cited in over 2,500 peer-reviewed publications. See [Googl
 
 ## Media
 
-* ["One glorious map"](https://www.climatecentral.org/news/map-animal-migration-climate-change-20646) (2016) — a widely shared visualization using Circuitscape to model species responses to climate change. Coverage in [The Nature Conservancy](https://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/) and [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/mesmerizing-animation-shows-where-animals-going-survive-climate-change-180960253/).
+* [NASA Software Maps Changes in Current and Future Animal Movements](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-software-maps-changes-in-current-and-future-animal-movements/) (2022) — NASA Science on the NASA-funded rewrite of Circuitscape and Omniscape in Julia, and their use by The Nature Conservancy to guide conservation decisions.
+* [Migrations in Motion](https://blog.nature.org/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/) (2016) — a widely shared visualization by The Nature Conservancy using Circuitscape to model species movements in response to climate change. Also covered in [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/mesmerizing-animation-shows-where-animals-going-survive-climate-change-180960253/).
+
+~~~
+<div style="text-align:center"><a href="https://maps.tnc.org/migrations-in-motion/"><img src="/assets/img/migrations-in-motion.jpg" style="max-width:700px; width:100%; padding:10px 0;" alt="Migrations in Motion map showing projected movement routes of mammals, birds, and amphibians across the United States in response to climate change" /></a></div>
+~~~
+
+*Migrations in Motion: projected movement of mammals (pink), birds (blue), and amphibians (yellow) across the United States under climate change, modeled with Circuitscape. Map by Dan Majka, [The Nature Conservancy](https://blog.nature.org/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/). [View the interactive map](https://maps.tnc.org/migrations-in-motion/).*
 * [Circuitscape wins Wildlife Society award](/pubs/tws-setwg_newsletter_s14.pdf) (2014)
 * [Circuitscape on the cover of Methods in Ecology & Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210x) (2013)
 * [Using Circuitscape to predict HIV spread in Africa](https://www.academia.edu/4707367/Spatial_accessibility_and_the_spread_of_HIV-1_subtypes_and_recombinants) (2012)
